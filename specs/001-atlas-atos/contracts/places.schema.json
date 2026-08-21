@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "places.schema.json",
+  "title": "places.json",
+  "description": "Lugares mencionados em Atos, com todos os candidatos de localização preservados (Constitution I). Consumido pela UI (mapa, painel de detalhe, painel de não-localizáveis).",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["place_id", "name", "slug", "type", "is_locatable", "verses", "mention_count", "chapters", "candidates", "candidate_count", "dispersion_index", "sources"],
+    "properties": {
+      "place_id": { "type": "string", "pattern": "^a[0-9a-f]{6}$" },
+      "name": { "type": "string" },
+      "slug": { "type": "string" },
+      "type": { "type": "string" },
+      "is_locatable": { "type": "boolean" },
+      "special_reason": {
+        "type": ["string", "null"],
+        "enum": ["unknown_place", "nonspecific_place", "multiple_locations", "no_candidates_resolved", null]
+      },
+      "verses": {
+        "type": "array",
+        "items": { "type": "string", "pattern": "^44[0-9]{6}$" },
+        "description": "sort (BBCCCVVV) como string, nunca inteiro (Constitution IV). Filtrado só a menções de Atos (livro 44) mesmo que a origem inclua outros livros."
+      },
+      "mention_count": { "type": "integer", "minimum": 1 },
+      "chapters": { "type": "array", "items": { "type": "integer", "minimum": 1 } },
+      "candidates": {
+        "type": "array",
+        "description": "TODOS os candidatos conhecidos, nunca truncado a 1 quando a origem tem mais (Constitution I / FR-002). Vazio somente se is_locatable=false.",
+        "items": {
+          "type": "object",
+          "required": ["modern_id", "name", "lon", "lat", "score", "probability", "lonlat_type", "precision_meters"],
+          "properties": {
+            "modern_id": { "type": "string", "pattern": "^m[0-9a-f]{6}$" },
+            "name": { "type": "string" },
+            "lon": { "type": "number", "minimum": -180, "maximum": 180 },
+            "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+            "score": { "type": "integer", "description": "Voto líquido bruto da origem — PODE ser negativo (ver docs/adr/0003-normalizacao-score-negativo.md). Não usar diretamente como peso visual; usar `probability`." },
+            "probability": { "type": "number", "minimum": 0, "maximum": 1, "description": "max(score,0)/Σmax(score_j,0) por lugar, com fallback uniforme se Σ=0. Nunca negativa." },
+            "lonlat_type": { "type": ["string", "null"], "enum": ["point", "center", "representative point", "settlement", null] },
+            "precision_meters": {
+              "type": ["integer", "null"],
+              "description": "Ausente = mismatch ontológico ponto-vs-área (região/ilha/corpo d'água/via), não incerteza posicional. Ver docs/data-contracts.md."
+            }
+          }
+        }
+      },
+      "candidate_count": { "type": "integer", "minimum": 0 },
+      "dispersion_index": { "type": "number", "minimum": 0, "maximum": 1, "description": "Dispersão da probabilidade entre candidatos; usado pela UI para ordenar/destacar lugares mais disputados (US1)." },
+      "sources": {
+        "type": "array",
+        "description": "Fontes bibliográficas do LUGAR (não por candidato — ver docs/data-contracts.md). Pode ser vazia.",
+        "items": {
+          "type": "object",
+          "required": ["source_id", "citation"],
+          "properties": {
+            "source_id": { "type": "string" },
+            "citation": { "type": "string" },
+            "locator": { "type": ["string", "null"] }
+          }
+        }
+      }
+    },
+    "if": { "properties": { "is_locatable": { "const": false } } },
+    "then": { "required": ["special_reason"] }
+  }
+}

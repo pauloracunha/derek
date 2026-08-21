@@ -1,0 +1,91 @@
+.app-layout {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 100vh;
+}
+
+.app-header {
+  padding: 0.75rem 1.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.app-subtitle {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.app-error {
+  background: #fee;
+  color: #900;
+  padding: 0.5rem 1.5rem;
+}
+
+.app-main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr auto;
+  grid-template-areas:
+    'map    side'
+    'timeline graph';
+  min-height: 0;
+}
+
+.map-area {
+  grid-area: map;
+}
+
+.side-panel {
+  grid-area: side;
+  border-left: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+.timeline-area {
+  grid-area: timeline;
+  border-top: 1px solid #ddd;
+}
+
+.graph-area {
+  grid-area: graph;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+}
+
+.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  min-height: 4rem;
+  color: #999;
+  font-size: 0.85rem;
+}
+
+.app-footer {
+  font-size: 0.75rem;
+  padding: 0.25rem 1.5rem;
+}
+
+/* Marcadores de candidato de localização — forma codifica lonlat_type (ponto exato vs.
+   área aproximada); opacidade/tamanho (definidos inline por marcador) codificam
+   probability. Ver CONTEXT.md § Forma do Marcador / Peso Visual. */
+.candidate-marker {
+  background: #7a5cff;
+  border: 1px solid #4b2fc7;
+  cursor: pointer;
+}
+
+.candidate-marker--point {
+  border-radius: 50%;
+}
+
+.candidate-marker--area {
+  border-radius: 3px;
+  transform: rotate(45deg);
+}

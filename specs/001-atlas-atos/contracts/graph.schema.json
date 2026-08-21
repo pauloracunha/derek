@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "graph.schema.json",
+  "title": "graph.json",
+  "description": "Grafo de coocorrência de lugares por capítulo. Métricas topológicas nunca variam com a incerteza de localização (Constitution VI / FR-014). Consumido pela UI (painel de grafo).",
+  "type": "object",
+  "required": ["unit", "nodes", "edges"],
+  "properties": {
+    "unit": { "type": "string", "const": "chapter" },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["place_id", "degree", "weighted_degree", "betweenness", "community"],
+        "properties": {
+          "place_id": { "type": "string" },
+          "degree": { "type": "integer", "minimum": 0 },
+          "weighted_degree": { "type": "integer", "minimum": 0 },
+          "betweenness": { "type": "number", "minimum": 0 },
+          "community": { "type": "integer", "minimum": 0 },
+          "community_is_connected": {
+            "type": "boolean",
+            "description": "false sinaliza comunidade internamente desconexa (FR-011) — nunca omitido silenciosamente."
+          }
+        }
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "target", "weight", "chapters"],
+        "properties": {
+          "source": { "type": "string" },
+          "target": { "type": "string" },
+          "weight": { "type": "integer", "minimum": 1 },
+          "chapters": { "type": "array", "items": { "type": "integer", "minimum": 1 } }
+        }
+      }
+    }
+  }
+}

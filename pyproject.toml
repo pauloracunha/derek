@@ -1,0 +1,39 @@
+[project]
+name = "atlas-atos"
+version = "0.1.0"
+description = "Pipeline reprodutível + app web que visualiza a rede de lugares de Atos preservando a incerteza de localização"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.0",
+    "polars>=1.0",
+    "networkx>=3.3",
+    "scikit-learn>=1.5",
+    "node2vec>=0.4",
+    "pyproj>=3.6",
+    "requests>=2.32",
+]
+
+[dependency-groups]
+dev = [
+    "jsonschema>=4.26.0",
+    "matplotlib>=3.11.1",
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+markers = [
+    "slow: depende de rede real e/ou ambiente limpo — fora do `pytest` padrão (ver `just test-slow`)",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["pipeline"]

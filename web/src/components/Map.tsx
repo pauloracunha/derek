@@ -1,0 +1,140 @@
+import { useEffect, useRef } from 'react'
+import * as maplibregl from 'maplibre-gl'
+import type { LonLatType, Place } from '../services/dataLoader'
+import { opacityForProbability, radiusForProbability } from '../services/visualWeight'
+import { placeInChapterRange, useAtlasStore } from '../state/store'
+
+// Bbox real de alcance de Atos (Jerusalém a Roma, incluindo Etiópia) — docs/adr/0005.
+const ATOS_BBOX: [[number, number], [number, number]] = [
+  [10, 15],
+  [48, 43],
+]
+
+// Forma do marcador codifica lonlat_type — canal independente de opacidade/tamanho
+// (probabilidade) e de cor (reservada à Comunidade em NetworkGraph). CONTEXT.md § Forma
+// do Marcador, grill Q3.
+function isAreaType(lonlatType: LonLatType): boolean {
+  return lonlatType === 'center' || lonlatType === 'representative point' || lonlatType === 'settlement'
+}
+
+const CANDIDATE_LINK_COLOR = '#7a5cff'
+
+export default function Map() {
+  const containerRef = useRef<HTMLDivElement>(null)
+  const mapRef = useRef<maplibregl.Map | null>(null)
+  const markersRef = useRef<maplibregl.Marker[]>([])
+  const linkSourceAddedRef = useRef(false)
+
+  const places = useAtlasStore((s) => s.places)
+  const chapterRange = useAtlasStore((s) => s.chapterRange)
+  const selectedPlaceId = useAtlasStore((s) => s.selectedPlaceId)
+  const selectPlace = useAtlasStore((s) => s.selectPlace)
+
+  useEffect(() => {
+    if (!containerRef.current || mapRef.current) return
+    const map = new maplibregl.Map({
+      container: containerRef.current,
+      style: 'https://demotiles.maplibre.org/style.json',
+      bounds: ATOS_BBOX,
+    })
+    mapRef.current = map
+    return () => {
+      map.remove()
+      mapRef.current = null
+    }
+  }, [])
+
+  // Marcadores: um por candidato de localização de cada lugar localizável e visível na
+  // faixa de capítulos atual. Nunca renderiza só o candidato de maior score (Princípio I).
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map) return
+
+    markersRef.current.forEach((m) => m.remove())
+    markersRef.current = []
+
+    const visiblePlaces = places.filter(
+      (p: Place) => p.is_locatable && placeInChapterRange(p, chapterRange),
+    )
+
+    for (const place of visiblePlaces) {
+      for (const candidate of place.candidates) {
+        const el = document.createElement('div')
+        el.className = isAreaType(candidate.lonlat_type) ? 'candidate-marker candidate-marker--area' : 'candidate-marker candidate-marker--point'
+        const size = radiusForProbability(candidate.probability) * 2
+        el.style.width = `${size}px`
+        el.style.height = `${size}px`
+        el.style.opacity = String(opacityForProbability(candidate.probability))
+        el.title = `${place.name} — ${candidate.name} (prob. ${(candidate.probability * 100).toFixed(0)}%)`
+        el.addEventListener('click', (e) => {
+          e.stopPropagation()
+          selectPlace(place.place_id)
+        })
+
+        const marker = new maplibregl.Marker({ element: el })
+          .setLngLat([candidate.lon, candidate.lat])
+          .addTo(map)
+        markersRef.current.push(marker)
+      }
+    }
+  }, [places, chapterRange, selectPlace])
+
+  // Vínculo visual entre candidatos do mesmo lugar: linha tracejada + cor compartilhada,
+  // só quando esse lugar está selecionado (CONTEXT.md § Vínculo Visual, grill Q2).
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map) return
+
+    const render = () => {
+      const selected = selectedPlaceId ? places.find((p) => p.place_id === selectedPlaceId) : null
+      const coords = selected && selected.candidates.length > 1
+        ? selected.candidates.map((c) => [c.lon, c.lat] as [number, number])
+        : []
+
+      const data = {
+        type: 'Feature' as const,
+        properties: {},
+        geometry: { type: 'LineString' as const, coordinates: coords.length > 1 ? coords : [] },
+      }
+
+      const source = map.getSource('candidate-links') as maplibregl.GeoJSONSource | undefined
+      if (source) {
+        source.setData(data)
+        return
+      }
+
+      if (!linkSourceAddedRef.current) {
+        map.addSource('candidate-links', { type: 'geojson', data })
+        map.addLayer({
+          id: 'candidate-links-layer',
+          type: 'line',
+          source: 'candidate-links',
+          paint: {
+            'line-color': CANDIDATE_LINK_COLOR,
+            'line-width': 2,
+            'line-dasharray': [2, 2],
+          },
+        })
+        linkSourceAddedRef.current = true
+      }
+    }
+
+    if (map.isStyleLoaded()) {
+      render()
+    } else {
+      map.once('load', render)
+    }
+  }, [selectedPlaceId, places])
+
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map) return
+    const onBackgroundClick = () => selectPlace(null)
+    map.on('click', onBackgroundClick)
+    return () => {
+      map.off('click', onBackgroundClick)
+    }
+  }, [selectPlace])
+
+  return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
+}

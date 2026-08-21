@@ -1,0 +1,6500 @@
+[
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.4653,
+        "lon": 30.3667,
+        "lonlat_type": "representative point",
+        "modern_id": "m91acfa",
+        "name": "Nile River",
+        "precision_meters": 100,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Nile",
+    "place_id": "a012705",
+    "slug": "nile",
+    "sources": [],
+    "special_reason": null,
+    "type": "river",
+    "verses": [
+      "44007019"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.76841,
+        "lon": 35.23288,
+        "lonlat_type": "point",
+        "modern_id": "m0b0e06",
+        "name": "Akeldama",
+        "precision_meters": 20,
+        "probability": 1.0,
+        "score": 456
+      }
+    ],
+    "chapters": [
+      1
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Akeldama",
+    "place_id": "a040ba5",
+    "slug": "akeldama",
+    "sources": [
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Akeldama",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": "Akeldama",
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Akeldama (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Archaeological Encyclopedia of the Holy Land (1990)",
+        "locator": "Field of Blood; Aceldama",
+        "source_id": "s435156"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Matt 27:7-8; Acts 1:19",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Akeldama",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": null,
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Aceldama",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Akeldama",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": "Akeldama",
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Baker Encyclopedia of Bible Places (1995)",
+        "locator": null,
+        "source_id": "sad8eb0"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": "Akeldama",
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Akeldama",
+        "source_id": "sfd1514"
+      }
+    ],
+    "special_reason": null,
+    "type": "field",
+    "verses": [
+      "44001019"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.490556,
+        "lon": 26.336667,
+        "lonlat_type": "point",
+        "modern_id": "mce3faf",
+        "name": "Assos",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Assos",
+    "place_id": "a0a2ca7",
+    "slug": "assos",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44020013",
+      "44020014"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.266667,
+        "lon": 32.983333,
+        "lonlat_type": "representative point",
+        "modern_id": "m7e7545",
+        "name": "Galatia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Galatia",
+    "place_id": "a0f440a",
+    "slug": "galatia",
+    "sources": [
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44016006",
+      "44018023"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.46639,
+        "lon": 12.9975,
+        "lonlat_type": "point",
+        "modern_id": "m4241cc",
+        "name": "Forum Appii",
+        "precision_meters": 200,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Forum of Appius",
+    "place_id": "a121d5e",
+    "slug": "forum-of-appius",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44028015"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.776667,
+        "lon": 35.234167,
+        "lonlat_type": "representative point",
+        "modern_id": "m66c5b8",
+        "name": "Jerusalem",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      1,
+      2,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      21,
+      26,
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 14,
+    "name": "Judea 1",
+    "place_id": "a149f13",
+    "slug": "judea-1",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44001008",
+      "44002009",
+      "44002014",
+      "44008001",
+      "44009031",
+      "44010037",
+      "44010039",
+      "44011001",
+      "44011029",
+      "44012019",
+      "44015001",
+      "44021010",
+      "44026020",
+      "44028021"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.776667,
+        "lon": 35.234167,
+        "lonlat_type": "point",
+        "modern_id": "m66c5b8",
+        "name": "Jerusalem",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 70,
+    "name": "Jerusalem",
+    "place_id": "a15257a",
+    "slug": "jerusalem",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44001004",
+      "44001008",
+      "44001012",
+      "44001013",
+      "44001019",
+      "44002005",
+      "44002014",
+      "44004005",
+      "44004016",
+      "44005016",
+      "44005028",
+      "44006007",
+      "44008001",
+      "44008014",
+      "44008025",
+      "44008026",
+      "44008027",
+      "44009002",
+      "44009013",
+      "44009021",
+      "44009026",
+      "44009028",
+      "44010039",
+      "44011002",
+      "44011022",
+      "44011027",
+      "44011030",
+      "44012025",
+      "44013013",
+      "44013027",
+      "44013031",
+      "44015002",
+      "44015003",
+      "44015004",
+      "44015022",
+      "44015023",
+      "44015033",
+      "44016004",
+      "44018021",
+      "44018022",
+      "44019021",
+      "44020016",
+      "44020022",
+      "44021004",
+      "44021011",
+      "44021012",
+      "44021013",
+      "44021015",
+      "44021017",
+      "44021018",
+      "44021021",
+      "44021031",
+      "44022003",
+      "44022005",
+      "44022017",
+      "44022018",
+      "44023011",
+      "44024011",
+      "44024017",
+      "44025001",
+      "44025003",
+      "44025007",
+      "44025009",
+      "44025015",
+      "44025020",
+      "44025024",
+      "44026004",
+      "44026010",
+      "44026020",
+      "44028017"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.270833,
+        "lon": 35.196111,
+        "lonlat_type": "point",
+        "modern_id": "m11c602",
+        "name": "Tyre",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      12,
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Tyre",
+    "place_id": "a160272",
+    "slug": "tyre",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44012020",
+      "44021003",
+      "44021007"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.500667,
+        "lon": 26.932716,
+        "lonlat_type": "point",
+        "modern_id": "me0645b",
+        "name": "Oren",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Adramyttium",
+    "place_id": "a184f3a",
+    "slug": "adramyttium",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.4,
+        "lon": 28.3,
+        "lonlat_type": "representative point",
+        "modern_id": "m3c5a04",
+        "name": "Asia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      6,
+      16,
+      19,
+      20,
+      21,
+      24,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 14,
+    "name": "Asia",
+    "place_id": "a197f19",
+    "slug": "asia",
+    "sources": [
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "Digital Atlas of Roman and Medieval Civilizations",
+        "locator": null,
+        "source_id": "s767f22"
+      },
+      {
+        "citation": "Biblemapper.com",
+        "locator": null,
+        "source_id": "s85af0b"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Asia (Roman province)",
+        "source_id": "sf42caf"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002009",
+      "44006009",
+      "44016006",
+      "44019010",
+      "44019022",
+      "44019026",
+      "44019027",
+      "44019031",
+      "44020004",
+      "44020016",
+      "44020018",
+      "44021027",
+      "44024018",
+      "44027002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.733333,
+        "lon": 29.9,
+        "lonlat_type": "representative point",
+        "modern_id": "m9f6e4f",
+        "name": "Lycia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Lycia",
+    "place_id": "a19fd03",
+    "slug": "lycia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44027005"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 35.31603,
+        "lon": 26.31155,
+        "lonlat_type": "representative point",
+        "modern_id": "mf98a4e",
+        "name": "Cape Sideros",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Salmone",
+    "place_id": "a1c44ea",
+    "slug": "salmone",
+    "sources": [],
+    "special_reason": null,
+    "type": "promontory",
+    "verses": [
+      "44027007"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.063889,
+        "lon": 15.293056,
+        "lonlat_type": "point",
+        "modern_id": "m4f5a82",
+        "name": "Syracuse",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Syracuse",
+    "place_id": "a1e3697",
+    "slug": "syracuse",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44028012"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.971851,
+        "lon": 23.726738,
+        "lonlat_type": "point",
+        "modern_id": "md70ac9",
+        "name": "Athens",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Athens",
+    "place_id": "a1fe6e7",
+    "slug": "athens",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44017015",
+      "44017016",
+      "44017021",
+      "44017022",
+      "44018001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.543333,
+        "lon": 44.422222,
+        "lonlat_type": "point",
+        "modern_id": "md561de",
+        "name": "Babylon",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Babylon 1",
+    "place_id": "a217d18",
+    "slug": "babylon-1",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44007043"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 35.309722,
+        "lon": 24.893333,
+        "lonlat_type": "representative point",
+        "modern_id": "mf93341",
+        "name": "Crete",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 6,
+    "name": "Crete",
+    "place_id": "a26aa94",
+    "slug": "crete",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44027007",
+      "44027008",
+      "44027012",
+      "44027013",
+      "44027014",
+      "44027021"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.276111,
+        "lon": 35.195,
+        "lonlat_type": "representative point",
+        "modern_id": "me64af8",
+        "name": "Samaria",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      1,
+      8,
+      9,
+      15
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 8,
+    "name": "Samaria 2",
+    "place_id": "a282dce",
+    "slug": "samaria-2",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": null,
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Farrington, Historical Atlas of the Holy Lands (2005)",
+        "locator": null,
+        "source_id": "s2aba5e"
+      },
+      {
+        "citation": "Student Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s2c15b3"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Aharoni, Land of the Bible (1979)",
+        "locator": null,
+        "source_id": "s45fd0f"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "Standard Bible Atlas (2006)",
+        "locator": null,
+        "source_id": "s6ab0de"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": null,
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Baly, The Geography of the Bible (1974)",
+        "locator": null,
+        "source_id": "s7a948b"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": null,
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Penguin Historical Atlas of the Bible Lands (2009)",
+        "locator": null,
+        "source_id": "s81dfc1"
+      },
+      {
+        "citation": "One-Stop Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "s87e244"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Sacred Bridge (2014)",
+        "locator": null,
+        "source_id": "s93c633"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Harvest Handbook of Bible Lands (2019)",
+        "locator": null,
+        "source_id": "s972543"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "Biblica: The Bible Atlas (2007)",
+        "locator": null,
+        "source_id": "sd3e083"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "Zondervan Pictorial Bible Atlas (1972)",
+        "locator": null,
+        "source_id": "sdf0c9d"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Monson, Regions on the Run (2009)",
+        "locator": null,
+        "source_id": "sf6c174"
+      },
+      {
+        "citation": "CEB Bible Map Guide (2011)",
+        "locator": null,
+        "source_id": "sfbc865"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44001008",
+      "44008001",
+      "44008005",
+      "44008009",
+      "44008014",
+      "44008025",
+      "44009031",
+      "44015003"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.95,
+        "lon": 34.9,
+        "lonlat_type": "point",
+        "modern_id": "m2b1a3a",
+        "name": "Lod",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Lod",
+    "place_id": "a2c5cc7",
+    "slug": "lod",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44009032",
+      "44009035",
+      "44009038"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.0,
+        "lon": 28.5,
+        "lonlat_type": "representative point",
+        "modern_id": "m58cfaf",
+        "name": "Mysia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Mysia",
+    "place_id": "a2d9bc8",
+    "slug": "mysia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44016007",
+      "44016008"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 35.0,
+        "lon": 33.0,
+        "lonlat_type": "representative point",
+        "modern_id": "me751fb",
+        "name": "Cyprus",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      4,
+      11,
+      13,
+      15,
+      21,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 8,
+    "name": "Cyprus",
+    "place_id": "a2e7601",
+    "slug": "cyprus",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44004036",
+      "44011019",
+      "44011020",
+      "44013004",
+      "44015039",
+      "44021003",
+      "44021016",
+      "44027004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.7572,
+        "lon": 34.6578,
+        "lonlat_type": "point",
+        "modern_id": "mf32c7d",
+        "name": "Tel Ashdod",
+        "precision_meters": 50,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      8
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Ashdod",
+    "place_id": "a30c937",
+    "slug": "ashdod",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44008040"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 34.755667,
+        "lon": 32.404167,
+        "lonlat_type": "point",
+        "modern_id": "m039ea4",
+        "name": "New Paphos",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Paphos",
+    "place_id": "a314765",
+    "slug": "paphos",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013006",
+      "44013013"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 30.962222,
+        "lon": 46.104444,
+        "lonlat_type": "representative point",
+        "modern_id": "m297af3",
+        "name": "Tell el Muqayyar",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Chaldea",
+    "place_id": "a32a4f8",
+    "slug": "chaldea",
+    "sources": [
+      {
+        "citation": "Rogerson, New Atlas of the Bible (1985)",
+        "locator": null,
+        "source_id": "s3f2d37"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Rand McNally Bible Atlas (1910)",
+        "locator": null,
+        "source_id": "s99de49"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Chaldea",
+        "source_id": "sf42caf"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44007004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.110475,
+        "lon": 26.547048,
+        "lonlat_type": "point",
+        "modern_id": "m29fa9d",
+        "name": "ancient theater at Mitylene",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Mitylene",
+    "place_id": "a33910d",
+    "slug": "mitylene",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44020014"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.270833,
+        "lon": 35.196111,
+        "lonlat_type": "representative point",
+        "modern_id": "m11c602",
+        "name": "Tyre",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      11,
+      15,
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Phoenicia",
+    "place_id": "a33d53e",
+    "slug": "phoenicia",
+    "sources": [
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Student Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s2c15b3"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Baly, The Geography of the Bible (1974)",
+        "locator": null,
+        "source_id": "s7a948b"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": null,
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Penguin Historical Atlas of the Bible Lands (2009)",
+        "locator": null,
+        "source_id": "s81dfc1"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Sacred Bridge (2014)",
+        "locator": null,
+        "source_id": "s93c633"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Harvest Handbook of Bible Lands (2019)",
+        "locator": null,
+        "source_id": "s972543"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "Biblica: The Bible Atlas (2007)",
+        "locator": null,
+        "source_id": "sd3e083"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "CEB Bible Map Guide (2011)",
+        "locator": null,
+        "source_id": "sfbc865"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44011019",
+      "44015003",
+      "44021002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.670556,
+        "lon": 34.839167,
+        "lonlat_type": "representative point",
+        "modern_id": "m6e1e42",
+        "name": "Cappadocia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Cappadocia",
+    "place_id": "a33fbde",
+    "slug": "cappadocia",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Digital Atlas of Roman and Medieval Civilizations",
+        "locator": null,
+        "source_id": "s767f22"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Biblemapper.com",
+        "locator": null,
+        "source_id": "s85af0b"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Cappadocia",
+        "source_id": "sf42caf"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002009"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.0,
+        "lon": 33.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m4b7659",
+        "name": "Lycaonia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      14
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Lycaonia",
+    "place_id": "a3668b6",
+    "slug": "lycaonia",
+    "sources": [
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Digital Atlas of Roman and Medieval Civilizations",
+        "locator": null,
+        "source_id": "s767f22"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Biblemapper.com",
+        "locator": null,
+        "source_id": "s85af0b"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Sacred Bridge (2014)",
+        "locator": null,
+        "source_id": "s93c633"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "Biblica: The Bible Atlas (2007)",
+        "locator": null,
+        "source_id": "sd3e083"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "Monson, Regions on the Run (2009)",
+        "locator": null,
+        "source_id": "sf6c174"
+      },
+      {
+        "citation": "CEB Bible Map Guide (2011)",
+        "locator": null,
+        "source_id": "sfbc865"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44014006",
+      "44014011"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.815278,
+        "lon": 27.110278,
+        "lonlat_type": "representative point",
+        "modern_id": "md321d4",
+        "name": "Kos",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Cos",
+    "place_id": "a398e5d",
+    "slug": "cos",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44021001"
+    ]
+  },
+  {
+    "candidate_count": 8,
+    "candidates": [
+      {
+        "lat": 31.291,
+        "lon": 32.018,
+        "lonlat_type": "representative point",
+        "modern_id": "m0f0213",
+        "name": "Lake Manzala",
+        "precision_meters": null,
+        "probability": 0.018018018018018018,
+        "score": 18
+      },
+      {
+        "lat": 30.716667,
+        "lon": 32.333333,
+        "lonlat_type": "representative point",
+        "modern_id": "m857530",
+        "name": "Ballah Lakes",
+        "precision_meters": null,
+        "probability": 0.1001001001001001,
+        "score": 100
+      },
+      {
+        "lat": 28.75,
+        "lon": 34.75,
+        "lonlat_type": "representative point",
+        "modern_id": "ma80c62",
+        "name": "Gulf of Aqaba",
+        "precision_meters": null,
+        "probability": 0.062062062062062065,
+        "score": 62
+      },
+      {
+        "lat": 30.338333,
+        "lon": 32.377778,
+        "lonlat_type": "representative point",
+        "modern_id": "md254e8",
+        "name": "Bitter Lakes",
+        "precision_meters": null,
+        "probability": 0.30430430430430433,
+        "score": 304
+      },
+      {
+        "lat": 31.190556,
+        "lon": 33.162222,
+        "lonlat_type": "representative point",
+        "modern_id": "md61725",
+        "name": "Lake Bardawil",
+        "precision_meters": null,
+        "probability": 0.0,
+        "score": -3
+      },
+      {
+        "lat": 28.75,
+        "lon": 33.0,
+        "lonlat_type": "representative point",
+        "modern_id": "mec75f5",
+        "name": "Gulf of Suez",
+        "precision_meters": null,
+        "probability": 0.36936936936936937,
+        "score": 369
+      },
+      {
+        "lat": 30.577778,
+        "lon": 32.288889,
+        "lonlat_type": "representative point",
+        "modern_id": "mf9ae18",
+        "name": "Lake Timsah",
+        "precision_meters": null,
+        "probability": 0.12812812812812813,
+        "score": 128
+      },
+      {
+        "lat": 31.042512,
+        "lon": 32.546139,
+        "lonlat_type": "representative point",
+        "modern_id": "mfd46de",
+        "name": "Pelusiac branch of the Nile",
+        "precision_meters": 100,
+        "probability": 0.018018018018018018,
+        "score": 18
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.7409757949042736,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Red Sea 1",
+    "place_id": "a3d18b2",
+    "slug": "red-sea-1",
+    "sources": [
+      {
+        "citation": "Expositor’s Bible Commentary (1984)",
+        "locator": "Exod 14:21-22, Neh 9:9",
+        "source_id": "s0592d6"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "38",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Currid, Exodus (2001)",
+        "locator": "13:18",
+        "source_id": "s0d3761"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": null,
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": null,
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": null,
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Archaeological Encyclopedia of the Holy Land (1990)",
+        "locator": null,
+        "source_id": "s435156"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Exod 13:18",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Baly, Atlas of the Biblical World (1971)",
+        "locator": "Red Sea",
+        "source_id": "s51cf7f"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Red Sea",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": null,
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": null,
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Exodus, The",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Red Sea, passage of the",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": null,
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "IVP Old Testament Bible Background Commentary (2000)",
+        "locator": "Exod 13:18",
+        "source_id": "s8ccb87"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Hamilton, Exodus: An Exegetical Commentary (2011)",
+        "locator": "13:18",
+        "source_id": "sac23e4"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Mackay, Exodus (2001)",
+        "locator": "13:18",
+        "source_id": "se6cf71"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": null,
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Sea of Reeds",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "body of water",
+    "verses": [
+      "44007036"
+    ]
+  },
+  {
+    "candidate_count": 2,
+    "candidates": [
+      {
+        "lat": 36.4402,
+        "lon": 28.2109,
+        "lonlat_type": "representative point",
+        "modern_id": "m0d73da",
+        "name": "Rhodes",
+        "precision_meters": null,
+        "probability": 0.5037433155080214,
+        "score": 471
+      },
+      {
+        "lat": 36.4402,
+        "lon": 28.2109,
+        "lonlat_type": "point",
+        "modern_id": "mfc8ad3",
+        "name": "Acropolis of Rhodes",
+        "precision_meters": 5,
+        "probability": 0.49625668449197863,
+        "score": 464
+      }
+    ],
+    "chapters": [
+      21
+    ],
+    "dispersion_index": 0.9999595683505986,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Rhodes 1",
+    "place_id": "a4218ee",
+    "slug": "rhodes-1",
+    "sources": [
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Rhodes",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": "Rhodes",
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Revised Expositor’s Bible Commentary (2012)",
+        "locator": "Acts 21:1-2",
+        "source_id": "s30e149"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Rhodes (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Acts 21:1",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Rhodes",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": "Rhodes",
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": null,
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Rhodes",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Rhodes",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Rhodes",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": "Rhodes",
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": "Rhodes",
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": "Rhodes",
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Rhodes",
+        "source_id": "sfd1514"
+      }
+    ],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44021001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.864444,
+        "lon": 39.032778,
+        "lonlat_type": "representative point",
+        "modern_id": "mc9a69d",
+        "name": "Harran",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 922
+      }
+    ],
+    "chapters": [
+      2,
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Mesopotamia",
+    "place_id": "a43f60f",
+    "slug": "mesopotamia",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Smith, Atlas of the Historical Geography of the Holy Land (1894)",
+        "locator": null,
+        "source_id": "s611b94"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": null,
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": null,
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": null,
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002009",
+      "44007002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.826111,
+        "lon": 14.120556,
+        "lonlat_type": "point",
+        "modern_id": "m45cb10",
+        "name": "Pozzuoli",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Puteoli",
+    "place_id": "a4488e9",
+    "slug": "puteoli",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44028013"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.971851,
+        "lon": 23.726738,
+        "lonlat_type": "representative point",
+        "modern_id": "md70ac9",
+        "name": "Athens",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16,
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Greece",
+    "place_id": "a4492a0",
+    "slug": "greece",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44016009",
+      "44020002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.776667,
+        "lon": 35.234167,
+        "lonlat_type": "settlement",
+        "modern_id": "m66c5b8",
+        "name": "Jerusalem",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      3,
+      5
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Solomon’s Portico",
+    "place_id": "a47c817",
+    "slug": "solomons-portico",
+    "sources": [],
+    "special_reason": null,
+    "type": "structure",
+    "verses": [
+      "44003011",
+      "44005012"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.012072,
+        "lon": 24.284576,
+        "lonlat_type": "point",
+        "modern_id": "mec5201",
+        "name": "Philippi",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16,
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Philippi",
+    "place_id": "a49e1d0",
+    "slug": "philippi",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44016012",
+      "44020006"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.820159,
+        "lon": 23.847209,
+        "lonlat_type": "point",
+        "modern_id": "m7aac33",
+        "name": "Amphipolis",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Amphipolis",
+    "place_id": "a4bdea7",
+    "slug": "amphipolis",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44017001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.3725,
+        "lon": 26.1375,
+        "lonlat_type": "representative point",
+        "modern_id": "mf3ab86",
+        "name": "Chios",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Chios",
+    "place_id": "a4c2c75",
+    "slug": "chios",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44020015"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.531111,
+        "lon": 27.275556,
+        "lonlat_type": "point",
+        "modern_id": "mcf7752",
+        "name": "Miletus",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Miletus",
+    "place_id": "a55027d",
+    "slug": "miletus",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44020015",
+      "44020017"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.306111,
+        "lon": 31.189167,
+        "lonlat_type": "representative point",
+        "modern_id": "m93f901",
+        "name": "Antioch in Pisidia",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13,
+      14
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Pisidia",
+    "place_id": "a55aded",
+    "slug": "pisidia",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": null,
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Student Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s2c15b3"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Standard Bible Atlas (2006)",
+        "locator": null,
+        "source_id": "s6ab0de"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": null,
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Biblemapper.com",
+        "locator": null,
+        "source_id": "s85af0b"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Sacred Bridge (2014)",
+        "locator": null,
+        "source_id": "s93c633"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Harvest Handbook of Bible Lands (2019)",
+        "locator": null,
+        "source_id": "s972543"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "CEB Bible Map Guide (2011)",
+        "locator": null,
+        "source_id": "sfbc865"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44013014",
+      "44014024"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 34.940556,
+        "lon": 24.811111,
+        "lonlat_type": "point",
+        "modern_id": "mb61e8a",
+        "name": "Lasaea",
+        "precision_meters": 75,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Lasea",
+    "place_id": "a56788c",
+    "slug": "lasea",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027008"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 35.933464,
+        "lon": 14.411732,
+        "lonlat_type": "representative point",
+        "modern_id": "m2672d3",
+        "name": "Malta",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Malta",
+    "place_id": "a57835d",
+    "slug": "malta",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44028001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.766667,
+        "lon": 35.333333,
+        "lonlat_type": "representative point",
+        "modern_id": "m39393a",
+        "name": "Canaan",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7,
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Canaan",
+    "place_id": "a581f0c",
+    "slug": "canaan",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44007011",
+      "44013019"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.5,
+        "lon": 34.891667,
+        "lonlat_type": "point",
+        "modern_id": "m11da12",
+        "name": "Caesarea Maritima",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      18,
+      21,
+      23,
+      24,
+      25
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 18,
+    "name": "Caesarea",
+    "place_id": "a58735e",
+    "slug": "caesarea",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44008040",
+      "44009030",
+      "44010001",
+      "44010024",
+      "44011011",
+      "44012019",
+      "44018022",
+      "44021008",
+      "44021016",
+      "44023023",
+      "44023032",
+      "44023033",
+      "44024001",
+      "44025001",
+      "44025004",
+      "44025006",
+      "44025013",
+      "44025024"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.5,
+        "lon": 31.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m29b4f7",
+        "name": "Bithynia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Bithynia",
+    "place_id": "a5c0cb0",
+    "slug": "bithynia",
+    "sources": [
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Rose Then and Now Bible Map Atlas (2013)",
+        "locator": null,
+        "source_id": "s72f20e"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Bithyina and Pontus",
+        "source_id": "sf42caf"
+      },
+      {
+        "citation": "Monson, Regions on the Run (2009)",
+        "locator": null,
+        "source_id": "sf6c174"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44016007"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.776667,
+        "lon": 35.234167,
+        "lonlat_type": "settlement",
+        "modern_id": "m66c5b8",
+        "name": "Jerusalem",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      3
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Beautiful Gate",
+    "place_id": "a5c37fd",
+    "slug": "beautiful-gate",
+    "sources": [],
+    "special_reason": null,
+    "type": "gate",
+    "verses": [
+      "44003002",
+      "44003010"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.939125,
+        "lon": 27.3407,
+        "lonlat_type": "point",
+        "modern_id": "m84025e",
+        "name": "Ephesus",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 12,
+    "name": "Ephesus",
+    "place_id": "a5feb15",
+    "slug": "ephesus",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44018019",
+      "44018021",
+      "44018024",
+      "44018027",
+      "44019001",
+      "44019017",
+      "44019023",
+      "44019026",
+      "44019035",
+      "44020016",
+      "44020017",
+      "44021029"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.518333,
+        "lon": 22.2,
+        "lonlat_type": "point",
+        "modern_id": "ma5019d",
+        "name": "Veria",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17,
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 6,
+    "name": "Berea",
+    "place_id": "a62fe31",
+    "slug": "berea",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44017010",
+      "44017011",
+      "44017013",
+      "44017014",
+      "44017015",
+      "44020004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.1088,
+        "lon": 15.64412,
+        "lonlat_type": "point",
+        "modern_id": "m366576",
+        "name": "Reggio Calabria",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Rhegium",
+    "place_id": "a63bb26",
+    "slug": "rhegium",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44028013"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.913028,
+        "lon": 34.892056,
+        "lonlat_type": "point",
+        "modern_id": "mc9df1a",
+        "name": "Tarsus",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9,
+      11,
+      21,
+      22
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Tarsus",
+    "place_id": "a666ea0",
+    "slug": "tarsus",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44009011",
+      "44009030",
+      "44011025",
+      "44021039",
+      "44022003"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.45,
+        "lon": 25.583333,
+        "lonlat_type": "representative point",
+        "modern_id": "md84660",
+        "name": "Samothraki",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Samothrace",
+    "place_id": "a68750d",
+    "slug": "samothrace",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44016011"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.511112,
+        "lon": 36.30639,
+        "lonlat_type": "point",
+        "modern_id": "m878978",
+        "name": "Damascus",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9,
+      22,
+      26
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 14,
+    "name": "Damascus",
+    "place_id": "a69c1d4",
+    "slug": "damascus",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44009002",
+      "44009003",
+      "44009008",
+      "44009010",
+      "44009019",
+      "44009022",
+      "44009027",
+      "44022005",
+      "44022006",
+      "44022010",
+      "44022011",
+      "44022012",
+      "44026012",
+      "44026020"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.6,
+        "lon": 22.54,
+        "lonlat_type": "representative point",
+        "modern_id": "me5a5eb",
+        "name": "Macedonia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16,
+      18,
+      19,
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 10,
+    "name": "Macedonia",
+    "place_id": "a69e1b8",
+    "slug": "macedonia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44016009",
+      "44016010",
+      "44016012",
+      "44018005",
+      "44019021",
+      "44019022",
+      "44019029",
+      "44020001",
+      "44020003",
+      "44020006"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.935,
+        "lon": 24.415,
+        "lonlat_type": "point",
+        "modern_id": "m156588",
+        "name": "Kavala",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Neapolis",
+    "place_id": "a6a7150",
+    "slug": "neapolis",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44016011"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.306111,
+        "lon": 31.189167,
+        "lonlat_type": "point",
+        "modern_id": "m93f901",
+        "name": "Antioch in Pisidia",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13,
+      14
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Antioch 2",
+    "place_id": "a6c704a",
+    "slug": "antioch-2",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013014",
+      "44014019",
+      "44014021"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.124,
+        "lon": 35.922,
+        "lonlat_type": "point",
+        "modern_id": "m094b0c",
+        "name": "Seleucia Pieria",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Seleucia",
+    "place_id": "a6d306d",
+    "slug": "seleucia",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.864444,
+        "lon": 39.032778,
+        "lonlat_type": "point",
+        "modern_id": "mc9a69d",
+        "name": "Harran",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 922
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Haran",
+    "place_id": "a6d9af3",
+    "slug": "haran",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": "Haran",
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "Haran",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Haran",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Wenham, Genesis (1987, 1994)",
+        "locator": "10:31",
+        "source_id": "s17b4fe"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Haran (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Archaeological Encyclopedia of the Holy Land (1990)",
+        "locator": "Haran",
+        "source_id": "s435156"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Gen 11:31",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Haran",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": "Haran",
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": null,
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Haran",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": "Haran",
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": "98",
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Waltke and Fredricks, Genesis (2001)",
+        "locator": "11:31",
+        "source_id": "s8119db"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Haran",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Haran",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "IVP Old Testament Bible Background Commentary (2000)",
+        "locator": "Gen 11:31",
+        "source_id": "s8ccb87"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": "Haran (Place)",
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": "Haran",
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Zondervan Pictorial Bible Atlas (1972)",
+        "locator": "48",
+        "source_id": "sdf0c9d"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": "Haran",
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Haran",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44007002",
+      "44007004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.905785,
+        "lon": 22.878741,
+        "lonlat_type": "point",
+        "modern_id": "me0518f",
+        "name": "Corinth",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      18,
+      19
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 6,
+    "name": "Corinth",
+    "place_id": "a6f437a",
+    "slug": "corinth",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44018001",
+      "44018008",
+      "44018011",
+      "44018012",
+      "44018018",
+      "44019001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.659431,
+        "lon": 27.003279,
+        "lonlat_type": "representative point",
+        "modern_id": "mbbc4a4",
+        "name": "Cape Mycale",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Trogyllium",
+    "place_id": "a6f61d3",
+    "slug": "trogyllium",
+    "sources": [],
+    "special_reason": null,
+    "type": "promontory",
+    "verses": [
+      "44020015"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.8922,
+        "lon": 12.4852,
+        "lonlat_type": "representative point",
+        "modern_id": "mb083bc",
+        "name": "Rome",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      18,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Italy",
+    "place_id": "a7184a7",
+    "slug": "italy",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44018002",
+      "44027001",
+      "44027006"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.105,
+        "lon": 34.930417,
+        "lonlat_type": "point",
+        "modern_id": "m97d53f",
+        "name": "Tell Ras el Ain",
+        "precision_meters": 50,
+        "probability": 1.0,
+        "score": 901
+      }
+    ],
+    "chapters": [
+      23
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Aphek 2",
+    "place_id": "a7b2e63",
+    "slug": "aphek-2",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": "Aphek",
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Expositor’s Bible Commentary (1984)",
+        "locator": "Josh 12:18; 1Sam 4:1b; 1Sam 29:1-11",
+        "source_id": "s0592d6"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "Aphek",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Aphek",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": null,
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Revised Expositor’s Bible Commentary (2012)",
+        "locator": "Acts 23:31-32",
+        "source_id": "s30e149"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": "Aphek/Antipatris",
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Aphek (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Archaeological Encyclopedia of the Holy Land (1990)",
+        "locator": null,
+        "source_id": "s435156"
+      },
+      {
+        "citation": "Aharoni, Land of the Bible (1979)",
+        "locator": "430",
+        "source_id": "s45fd0f"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "1Sam 4:1; 1Sam 29:1",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Baly, Atlas of the Biblical World (1971)",
+        "locator": "Aphek",
+        "source_id": "s51cf7f"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Aphek",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": "Aphek",
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": null,
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": null,
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": "Aphek",
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Baly, The Geography of the Bible (1974)",
+        "locator": "13",
+        "source_id": "s7a948b"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": "97",
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Aphek of Sharon",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Aphek",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "IVP Old Testament Bible Background Commentary (2000)",
+        "locator": "Josh 12:18; 1Sam 4:1; 1Sam 29:1",
+        "source_id": "s8ccb87"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": null,
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": "Aphek",
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": "Afeq",
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Baker Encyclopedia of Bible Places (1995)",
+        "locator": null,
+        "source_id": "sad8eb0"
+      },
+      {
+        "citation": "Hess, Joshua (1996)",
+        "locator": "4",
+        "source_id": "sc3c58f"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Gordon, I and II Samuel (1986)",
+        "locator": "1Sam 4:1",
+        "source_id": "sdb4aa3"
+      },
+      {
+        "citation": "Zondervan Pictorial Bible Atlas (1972)",
+        "locator": "91",
+        "source_id": "sdf0c9d"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": null,
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Aphek",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44023031"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.972222,
+        "lon": 23.723611,
+        "lonlat_type": "point",
+        "modern_id": "ma9c898",
+        "name": "Areopagus",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Areopagus",
+    "place_id": "a815d89",
+    "slug": "areopagus",
+    "sources": [],
+    "special_reason": null,
+    "type": "hill",
+    "verses": [
+      "44017019",
+      "44017022",
+      "44017033"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.820946,
+        "lon": 21.851229,
+        "lonlat_type": "point",
+        "modern_id": "me649fd",
+        "name": "Cyrene",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      6,
+      11,
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 4,
+    "name": "Cyrene",
+    "place_id": "a81cdb5",
+    "slug": "cyrene",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44002010",
+      "44006009",
+      "44011020",
+      "44013001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.68,
+        "lon": 37.83,
+        "lonlat_type": "representative point",
+        "modern_id": "m220f70",
+        "name": "Pontus",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Pontus",
+    "place_id": "a83a43e",
+    "slug": "pontus",
+    "sources": [
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Rose Then and Now Bible Map Atlas (2013)",
+        "locator": null,
+        "source_id": "s72f20e"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Pontus (region)",
+        "source_id": "sf42caf"
+      },
+      {
+        "citation": "Monson, Regions on the Run (2009)",
+        "locator": null,
+        "source_id": "sf6c174"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002009",
+      "44018002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.4,
+        "lon": 34.883,
+        "lonlat_type": "representative point",
+        "modern_id": "m010fd0",
+        "name": "Sharon Plain",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Sharon 1",
+    "place_id": "a83fd43",
+    "slug": "sharon-1",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44009035"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.511112,
+        "lon": 36.30639,
+        "lonlat_type": "representative point",
+        "modern_id": "m878978",
+        "name": "Damascus",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      15,
+      18,
+      20,
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Syria 2",
+    "place_id": "a890adf",
+    "slug": "syria-2",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44015023",
+      "44015041",
+      "44018018",
+      "44020003",
+      "44021003"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.751944,
+        "lon": 26.158611,
+        "lonlat_type": "point",
+        "modern_id": "mf8cbc7",
+        "name": "Alexandria Troas",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16,
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 4,
+    "name": "Troas",
+    "place_id": "a91c509",
+    "slug": "troas",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44016008",
+      "44016011",
+      "44020005",
+      "44020006"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.92021,
+        "lon": 27.83655,
+        "lonlat_type": "point",
+        "modern_id": "m4e3e3e",
+        "name": "Akhisar",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Thyatira",
+    "place_id": "a94b661",
+    "slug": "thyatira",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44016014"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.560985,
+        "lon": 35.371944,
+        "lonlat_type": "point",
+        "modern_id": "mfccaed",
+        "name": "Sandikli archaeological site in Sidon",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      12,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Sidon",
+    "place_id": "a98e4d7",
+    "slug": "sidon",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44012020",
+      "44027003"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.76,
+        "lon": 35.527,
+        "lonlat_type": "representative point",
+        "modern_id": "mf8c29c",
+        "name": "Galilee",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      1,
+      2,
+      5,
+      9,
+      10,
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 6,
+    "name": "Galilee 1",
+    "place_id": "a9cf1e8",
+    "slug": "galilee-1",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": null,
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Wikimedia Commons",
+        "locator": "https://commons.wikimedia.org/wiki/File:Ancient_Galilee.jpg",
+        "source_id": "s0ed9d8"
+      },
+      {
+        "citation": "Farrington, Historical Atlas of the Holy Lands (2005)",
+        "locator": null,
+        "source_id": "s2aba5e"
+      },
+      {
+        "citation": "Student Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s2c15b3"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Penguin Historical Atlas of the Bible Lands (2009)",
+        "locator": null,
+        "source_id": "s81dfc1"
+      },
+      {
+        "citation": "Biblemapper.com",
+        "locator": null,
+        "source_id": "s85af0b"
+      },
+      {
+        "citation": "One-Stop Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "s87e244"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Harvest Handbook of Bible Lands (2019)",
+        "locator": null,
+        "source_id": "s972543"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "Biblica: The Bible Atlas (2007)",
+        "locator": null,
+        "source_id": "sd3e083"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44001011",
+      "44002007",
+      "44005037",
+      "44009031",
+      "44010037",
+      "44013031"
+    ]
+  },
+  {
+    "candidate_count": 2,
+    "candidates": [
+      {
+        "lat": 35.2,
+        "lon": 24.072222,
+        "lonlat_type": "point",
+        "modern_id": "m297f75",
+        "name": "Finikas",
+        "precision_meters": 250,
+        "probability": 0.6100702576112412,
+        "score": 521
+      },
+      {
+        "lat": 35.20001,
+        "lon": 24.07858,
+        "lonlat_type": "point",
+        "modern_id": "m53a930",
+        "name": "Loutro",
+        "precision_meters": 250,
+        "probability": 0.38992974238875877,
+        "score": 333
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.9647541938338005,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Phoenix",
+    "place_id": "a9ee958",
+    "slug": "phoenix",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": "Phoenix",
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "Phoenix",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Phoenix",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": "Phoenix",
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Revised Expositor’s Bible Commentary (2012)",
+        "locator": "Acts 27:11-12",
+        "source_id": "s30e149"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Phoenix (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": "Phoenix",
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Phenice",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": "Phoenix",
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Phoenix of Crete",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Phoenix",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": "Phoenix",
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": "Phoenix",
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": "Phoenix",
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Phoenix",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027012"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.884335,
+        "lon": 22.996816,
+        "lonlat_type": "point",
+        "modern_id": "mf07963",
+        "name": "Kechries",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Cenchreae",
+    "place_id": "aa31dd3",
+    "slug": "cenchreae",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44018018"
+    ]
+  },
+  {
+    "candidate_count": 3,
+    "candidates": [
+      {
+        "lat": 37.281957,
+        "lon": 32.777662,
+        "lonlat_type": "point",
+        "modern_id": "m564bff",
+        "name": "Güdelisin",
+        "precision_meters": 50,
+        "probability": 0.0,
+        "score": -122
+      },
+      {
+        "lat": 37.348569,
+        "lon": 33.361453,
+        "lonlat_type": "point",
+        "modern_id": "mc076de",
+        "name": "Kerti Hüyük",
+        "precision_meters": 50,
+        "probability": 0.9460946094609461,
+        "score": 860
+      },
+      {
+        "lat": 37.318797,
+        "lon": 33.394803,
+        "lonlat_type": "point",
+        "modern_id": "mdeff6e",
+        "name": "Devri Şehri",
+        "precision_meters": 100,
+        "probability": 0.0539053905390539,
+        "score": 49
+      }
+    ],
+    "chapters": [
+      14,
+      16,
+      20
+    ],
+    "dispersion_index": 0.1910207024857199,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Derbe",
+    "place_id": "aa401a9",
+    "slug": "derbe",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": "Derbe",
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "Derbe",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Derbe",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": "Derbe",
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": "Derbe",
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Derbe (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Acts 14:21 sidebar",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Fant and Reddish, Guide to Biblical Sites in Greece and Turkey (2003)",
+        "locator": "175",
+        "source_id": "s4e6beb"
+      },
+      {
+        "citation": "Baly, Atlas of the Biblical World (1971)",
+        "locator": "Derbe",
+        "source_id": "s51cf7f"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Derbe",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": "Derbe",
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "New Unger’s Bible Dictionary (1988)",
+        "locator": "Derbe",
+        "source_id": "s6ce624"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Derbe",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": "Derbe",
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Derbe",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Derbe",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": "Derbe",
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": "Derbe",
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": "Derbe",
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Zondervan Pictorial Bible Atlas (1972)",
+        "locator": "370",
+        "source_id": "sdf0c9d"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": "Derbe",
+        "source_id": "se72732"
+      },
+      {
+        "citation": "New Bible Dictionary (1996)",
+        "locator": "Derbe",
+        "source_id": "sea6c3d"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Derbe",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": "Derbe",
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44014006",
+      "44014020",
+      "44014021",
+      "44016001",
+      "44020004"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.259167,
+        "lon": 29.985278,
+        "lonlat_type": "point",
+        "modern_id": "m189d38",
+        "name": "Myra",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Myra",
+    "place_id": "aa4b3e2",
+    "slug": "myra",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027005"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.504,
+        "lon": 34.4644,
+        "lonlat_type": "point",
+        "modern_id": "mb5cfe4",
+        "name": "Tell Harube",
+        "precision_meters": 1000,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      8
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Gaza",
+    "place_id": "aa8edd2",
+    "slug": "gaza",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44008026"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.0,
+        "lon": 31.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m734ef6",
+        "name": "Pamphylia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      13,
+      14,
+      15,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Pamphylia",
+    "place_id": "aa95188",
+    "slug": "pamphylia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002010",
+      "44013013",
+      "44014024",
+      "44015038",
+      "44027005"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 34.929694,
+        "lon": 24.800306,
+        "lonlat_type": "point",
+        "modern_id": "m3f310c",
+        "name": "Kaloi Limenes",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Fair Havens",
+    "place_id": "aae626a",
+    "slug": "fair-havens",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027008",
+      "44027012"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.623703,
+        "lon": 23.469685,
+        "lonlat_type": "point",
+        "modern_id": "md0824c",
+        "name": "Apollonia",
+        "precision_meters": 5000,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Apollonia",
+    "place_id": "ab20df9",
+    "slug": "apollonia",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44017001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 16.935139,
+        "lon": 33.75075,
+        "lonlat_type": "representative point",
+        "modern_id": "m9982d9",
+        "name": "Meroe",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      8
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Ethiopia",
+    "place_id": "ab45bd3",
+    "slug": "ethiopia",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Rogerson, New Atlas of the Bible (1985)",
+        "locator": null,
+        "source_id": "s3f2d37"
+      },
+      {
+        "citation": "Smith, Atlas of the Historical Geography of the Holy Land (1894)",
+        "locator": null,
+        "source_id": "s611b94"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44008027"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.685833,
+        "lon": 27.375,
+        "lonlat_type": "point",
+        "modern_id": "m259892",
+        "name": "Cnidus",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Cnidus",
+    "place_id": "ab793ce",
+    "slug": "cnidus",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44027007"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 39.0,
+        "lon": 31.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m76ec6b",
+        "name": "Phrygia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      16,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Phrygia",
+    "place_id": "ab8ae56",
+    "slug": "phrygia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002010",
+      "44016006",
+      "44018023"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.9214,
+        "lon": 35.0692,
+        "lonlat_type": "point",
+        "modern_id": "mc58154",
+        "name": "Acre",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Ptolemais",
+    "place_id": "abc2af0",
+    "slug": "ptolemais",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44021007"
+    ]
+  },
+  {
+    "candidate_count": 14,
+    "candidates": [
+      {
+        "lat": 29.669217,
+        "lon": 34.633411,
+        "lonlat_type": "point",
+        "modern_id": "m0c2d62",
+        "name": "Jebel Hashem el Tarif",
+        "precision_meters": 1000,
+        "probability": 0.023668639053254437,
+        "score": 20
+      },
+      {
+        "lat": 30.283333,
+        "lon": 34.75,
+        "lonlat_type": "point",
+        "modern_id": "m0cc900",
+        "name": "Har Karkom",
+        "precision_meters": 1000,
+        "probability": 0.12189349112426036,
+        "score": 103
+      },
+      {
+        "lat": 29.671,
+        "lon": 32.961,
+        "lonlat_type": "point",
+        "modern_id": "m1bfeb1",
+        "name": "Jebel Sin Bishar",
+        "precision_meters": 1000,
+        "probability": 0.10532544378698225,
+        "score": 89
+      },
+      {
+        "lat": 28.3405,
+        "lon": 35.2925,
+        "lonlat_type": "point",
+        "modern_id": "m3cf986",
+        "name": "Al Manifa",
+        "precision_meters": 1000,
+        "probability": 0.0,
+        "score": -7
+      },
+      {
+        "lat": 28.654167,
+        "lon": 35.305833,
+        "lonlat_type": "point",
+        "modern_id": "m4d1277",
+        "name": "Jabal al Lawz",
+        "precision_meters": 1000,
+        "probability": 0.004733727810650888,
+        "score": 4
+      },
+      {
+        "lat": 30.351111,
+        "lon": 33.523056,
+        "lonlat_type": "point",
+        "modern_id": "m582106",
+        "name": "Jebel Yeleq",
+        "precision_meters": 1000,
+        "probability": 0.005917159763313609,
+        "score": 5
+      },
+      {
+        "lat": 28.555556,
+        "lon": 33.967222,
+        "lonlat_type": "point",
+        "modern_id": "m5e6c65",
+        "name": "Ras es Safsafeh",
+        "precision_meters": 1000,
+        "probability": 0.0650887573964497,
+        "score": 55
+      },
+      {
+        "lat": 30.653056,
+        "lon": 34.028889,
+        "lonlat_type": "point",
+        "modern_id": "m91f093",
+        "name": "Jebel Halal",
+        "precision_meters": 1000,
+        "probability": 0.014201183431952662,
+        "score": 12
+      },
+      {
+        "lat": 30.702222,
+        "lon": 33.376667,
+        "lonlat_type": "point",
+        "modern_id": "mad096a",
+        "name": "Jabal al Magharah",
+        "precision_meters": 1000,
+        "probability": 0.005917159763313609,
+        "score": 5
+      },
+      {
+        "lat": 28.539722,
+        "lon": 33.973333,
+        "lonlat_type": "point",
+        "modern_id": "mb374b4",
+        "name": "Jebel Musa",
+        "precision_meters": 1000,
+        "probability": 0.5502958579881657,
+        "score": 465
+      },
+      {
+        "lat": 30.4265,
+        "lon": 34.7334,
+        "lonlat_type": "point",
+        "modern_id": "mb43cbb",
+        "name": "Har ‘Arif",
+        "precision_meters": 1000,
+        "probability": 0.005917159763313609,
+        "score": 5
+      },
+      {
+        "lat": 28.646389,
+        "lon": 33.651667,
+        "lonlat_type": "point",
+        "modern_id": "mb78572",
+        "name": "Jebel Serbal",
+        "precision_meters": 1000,
+        "probability": 0.06390532544378698,
+        "score": 54
+      },
+      {
+        "lat": 28.510833,
+        "lon": 33.955278,
+        "lonlat_type": "point",
+        "modern_id": "me89f58",
+        "name": "Jebel Katherina",
+        "precision_meters": 1000,
+        "probability": 0.033136094674556214,
+        "score": 28
+      },
+      {
+        "lat": 27.9607,
+        "lon": 35.6572,
+        "lonlat_type": "point",
+        "modern_id": "mee86ac",
+        "name": "Jabal Harb",
+        "precision_meters": 1000,
+        "probability": 0.0,
+        "score": -24
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.5889210064906022,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Mount Sinai",
+    "place_id": "abfba2a",
+    "slug": "mount-sinai",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": "38",
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Expositor’s Bible Commentary (1984)",
+        "locator": "Exod 19:1-2, Exod introduction: 5. Route of the Exodus, Num 33:5-37 note 15",
+        "source_id": "s0592d6"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": "Mount Sinai",
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Eerdmans Dictionary of the Bible (2000)",
+        "locator": "Sinai",
+        "source_id": "s0dea33"
+      },
+      {
+        "citation": "Holman Illustrated Bible Dictionary (2003)",
+        "locator": null,
+        "source_id": "s284e5a"
+      },
+      {
+        "citation": "Baker Illustrated Bible Dictionary (2013)",
+        "locator": "Sinai, Mount",
+        "source_id": "s29dcd8"
+      },
+      {
+        "citation": "Wenham, Numbers (1981)",
+        "locator": "33:8-15",
+        "source_id": "s2d4006"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": "30",
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Cole, Numbers (2000)",
+        "locator": "1:1",
+        "source_id": "s39bfc9"
+      },
+      {
+        "citation": "Anchor Yale Bible Dictionary (1992)",
+        "locator": "Sinai, Mount (place)",
+        "source_id": "s3f220c"
+      },
+      {
+        "citation": "Rogerson, New Atlas of the Bible (1985)",
+        "locator": "115",
+        "source_id": "s3f2d37"
+      },
+      {
+        "citation": "Zondervan Illustrated Bible Backgrounds Commentary (2009)",
+        "locator": "Numbers Introduction, Numbers Introduction; 1Kgs 19:8",
+        "source_id": "s46f23a"
+      },
+      {
+        "citation": "Baly, Atlas of the Biblical World (1971)",
+        "locator": "208",
+        "source_id": "s51cf7f"
+      },
+      {
+        "citation": "Nelson’s Illustrated Bible Dictionary (2014)",
+        "locator": "Sinai",
+        "source_id": "s559561"
+      },
+      {
+        "citation": "Zondervan Encyclopedia of the Bible (2010)",
+        "locator": null,
+        "source_id": "s565ee7"
+      },
+      {
+        "citation": "HarperCollins Bible Dictionary (2011)",
+        "locator": "Sinai",
+        "source_id": "s628590"
+      },
+      {
+        "citation": "OpenBible.info (2021)",
+        "locator": null,
+        "source_id": "s6cb875"
+      },
+      {
+        "citation": "Wycliffe Bible Encyclopedia (1975)",
+        "locator": "Sinai",
+        "source_id": "s73c38d"
+      },
+      {
+        "citation": "Hammond Atlas of the Bible Lands (2007)",
+        "locator": "Sinai, Mt.",
+        "source_id": "s77699d"
+      },
+      {
+        "citation": "Baly, The Geography of the Bible (1974)",
+        "locator": "105, 251",
+        "source_id": "s7a948b"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Holman Illustrated Guide to Bible Geography (2020)",
+        "locator": "27",
+        "source_id": "s7f046e"
+      },
+      {
+        "citation": "Lexham Bible Dictionary (2016)",
+        "locator": "Mount Sinai",
+        "source_id": "s8326e2"
+      },
+      {
+        "citation": "International Standard Bible Encyclopedia (1979)",
+        "locator": "Sinai",
+        "source_id": "s876c69"
+      },
+      {
+        "citation": "IVP Old Testament Bible Background Commentary (2000)",
+        "locator": "Exod 19:1-2",
+        "source_id": "s8ccb87"
+      },
+      {
+        "citation": "Tyndale Bible Dictionary (2001)",
+        "locator": "Sina, Sinai",
+        "source_id": "s93d4c1"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": "Choreb, Sina, Sinai map",
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": "31",
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "Hamilton, Exodus: An Exegetical Commentary (2011)",
+        "locator": "19:1-2",
+        "source_id": "sac23e4"
+      },
+      {
+        "citation": "Mackay, Exodus (2001)",
+        "locator": "3:1",
+        "source_id": "se6cf71"
+      },
+      {
+        "citation": "New Interpreter’s Bible Dictionary (2009)",
+        "locator": null,
+        "source_id": "se72732"
+      },
+      {
+        "citation": "Grollenberg, Atlas of the Bible (1957)",
+        "locator": "Sinai (Mount)",
+        "source_id": "sfd1514"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": "Mount Sinai",
+        "source_id": "sfd4d34"
+      },
+      {
+        "citation": "Stuart, Exodus (2006)",
+        "locator": "17:1-2",
+        "source_id": "sfe5cce"
+      }
+    ],
+    "special_reason": null,
+    "type": "mountain",
+    "verses": [
+      "44007030",
+      "44007038"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.820946,
+        "lon": 21.851229,
+        "lonlat_type": "representative point",
+        "modern_id": "me649fd",
+        "name": "Cyrene",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Libya",
+    "place_id": "ac12af9",
+    "slug": "libya",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002010"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.777946,
+        "lon": 35.245686,
+        "lonlat_type": "point",
+        "modern_id": "me461ba",
+        "name": "Mount of Olives",
+        "precision_meters": 300,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      1
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Mount of Olives",
+    "place_id": "ac2c4c5",
+    "slug": "mount-of-olives",
+    "sources": [],
+    "special_reason": null,
+    "type": "hill",
+    "verses": [
+      "44001012"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.881272,
+        "lon": 30.703614,
+        "lonlat_type": "point",
+        "modern_id": "m5e72ac",
+        "name": "Antalya",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      14
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 2,
+    "name": "Attalia",
+    "place_id": "ac744c1",
+    "slug": "attalia",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44014025",
+      "44014026"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 34.833333,
+        "lon": 24.083333,
+        "lonlat_type": "representative point",
+        "modern_id": "m9e1f27",
+        "name": "Gavdos",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Cauda",
+    "place_id": "aca2b0a",
+    "slug": "cauda",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44027016"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 28.4947,
+        "lon": 35.0122,
+        "lonlat_type": "representative point",
+        "modern_id": "m963bb7",
+        "name": "Al Bad",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Midian",
+    "place_id": "acc6d8e",
+    "slug": "midian",
+    "sources": [
+      {
+        "citation": "IVP Atlas of Bible History (2006)",
+        "locator": null,
+        "source_id": "s024dad"
+      },
+      {
+        "citation": "Westminster Historical Atlas to the Bible (1956)",
+        "locator": null,
+        "source_id": "s092bb0"
+      },
+      {
+        "citation": "Student Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s2c15b3"
+      },
+      {
+        "citation": "Kregel Bible Atlas (2003)",
+        "locator": null,
+        "source_id": "s333922"
+      },
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "Standard Bible Atlas (2006)",
+        "locator": null,
+        "source_id": "s6ab0de"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Discovery House Bible Atlas (2015)",
+        "locator": null,
+        "source_id": "s769654"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Penguin Historical Atlas of the Bible Lands (2009)",
+        "locator": null,
+        "source_id": "s81dfc1"
+      },
+      {
+        "citation": "Hudson, Bible Atlas and Companion (2008)",
+        "locator": null,
+        "source_id": "s938612"
+      },
+      {
+        "citation": "Sacred Bridge (2014)",
+        "locator": null,
+        "source_id": "s93c633"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "New Bible Atlas (1985)",
+        "locator": null,
+        "source_id": "sa80e89"
+      },
+      {
+        "citation": "National Geographic, The Biblical World (2007)",
+        "locator": null,
+        "source_id": "sc73fa3"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "Biblica: The Bible Atlas (2007)",
+        "locator": null,
+        "source_id": "sd3e083"
+      },
+      {
+        "citation": "Barnes, Historical Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "sdd21d1"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "CEB Bible Map Guide (2011)",
+        "locator": null,
+        "source_id": "sfbc865"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44007029"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.75,
+        "lon": 26.8333,
+        "lonlat_type": "representative point",
+        "modern_id": "m509072",
+        "name": "Samos",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      20
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Samos",
+    "place_id": "acf6ec0",
+    "slug": "samos",
+    "sources": [],
+    "special_reason": null,
+    "type": "island",
+    "verses": [
+      "44020015"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.5,
+        "lon": 18.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m0c0286",
+        "name": "Sidra",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Syrtis",
+    "place_id": "ad36371",
+    "slug": "syrtis",
+    "sources": [],
+    "special_reason": null,
+    "type": "body of water",
+    "verses": [
+      "44027017"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.913028,
+        "lon": 34.892056,
+        "lonlat_type": "representative point",
+        "modern_id": "mc9df1a",
+        "name": "Tarsus",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      6,
+      15,
+      21,
+      22,
+      23,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 7,
+    "name": "Cilicia",
+    "place_id": "ad63819",
+    "slug": "cilicia",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Digital Atlas of the Roman Empire",
+        "locator": null,
+        "source_id": "s454643"
+      },
+      {
+        "citation": "Smith, Atlas of the Historical Geography of the Holy Land (1894)",
+        "locator": null,
+        "source_id": "s611b94"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Rose Then and Now Bible Map Atlas (2013)",
+        "locator": null,
+        "source_id": "s72f20e"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "Wikipedia",
+        "locator": "Cilicia (Roman province)",
+        "source_id": "sf42caf"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44006009",
+      "44015023",
+      "44015041",
+      "44021039",
+      "44022003",
+      "44023034",
+      "44027005"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.0,
+        "lon": 19.0,
+        "lonlat_type": "representative point",
+        "modern_id": "m904265",
+        "name": "Adriatic and Ionian Seas",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Adriatic Sea",
+    "place_id": "adc77fb",
+    "slug": "adriatic-sea",
+    "sources": [],
+    "special_reason": null,
+    "type": "body of water",
+    "verses": [
+      "44027027"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.260278,
+        "lon": 29.314167,
+        "lonlat_type": "point",
+        "modern_id": "mcb8622",
+        "name": "Patara",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      21
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Patara",
+    "place_id": "ade301b",
+    "slug": "patara",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44021001"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.213611,
+        "lon": 35.281944,
+        "lonlat_type": "point",
+        "modern_id": "m657590",
+        "name": "Tell Balatah",
+        "precision_meters": 250,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      7
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Shechem",
+    "place_id": "adf74d4",
+    "slug": "shechem",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44007016"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.054481,
+        "lon": 34.753039,
+        "lonlat_type": "point",
+        "modern_id": "mcb49f3",
+        "name": "Jaffa",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9,
+      10,
+      11
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 10,
+    "name": "Joppa",
+    "place_id": "ae023a9",
+    "slug": "joppa",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44009036",
+      "44009038",
+      "44009042",
+      "44009043",
+      "44010005",
+      "44010008",
+      "44010023",
+      "44010032",
+      "44011005",
+      "44011013"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.226691,
+        "lon": 36.171743,
+        "lonlat_type": "point",
+        "modern_id": "mbe432b",
+        "name": "Antioch on the Orontes",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      6,
+      11,
+      13,
+      14,
+      15,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 17,
+    "name": "Antioch 1",
+    "place_id": "ae41ab4",
+    "slug": "antioch-1",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44006005",
+      "44011019",
+      "44011020",
+      "44011022",
+      "44011026",
+      "44011027",
+      "44011029",
+      "44013001",
+      "44014026",
+      "44014027",
+      "44015001",
+      "44015022",
+      "44015023",
+      "44015030",
+      "44015035",
+      "44018022",
+      "44018023"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.872202,
+        "lon": 32.492331,
+        "lonlat_type": "point",
+        "modern_id": "m5ff141",
+        "name": "Konya",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13,
+      14,
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Iconium",
+    "place_id": "ae425aa",
+    "slug": "iconium",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013051",
+      "44014001",
+      "44014019",
+      "44014021",
+      "44016002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 31.1825,
+        "lon": 29.8965,
+        "lonlat_type": "point",
+        "modern_id": "m363196",
+        "name": "Alexandria",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      6,
+      18,
+      27,
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 4,
+    "name": "Alexandria",
+    "place_id": "aee7248",
+    "slug": "alexandria",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44006009",
+      "44018024",
+      "44027006",
+      "44028011"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 38.72,
+        "lon": 22.54,
+        "lonlat_type": "representative point",
+        "modern_id": "m402935",
+        "name": "Achaia",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      18,
+      19
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Achaia",
+    "place_id": "aef4242",
+    "slug": "achaia",
+    "sources": [],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44018012",
+      "44018027",
+      "44019021"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 37.6017,
+        "lon": 32.3384,
+        "lonlat_type": "point",
+        "modern_id": "ma6f6dc",
+        "name": "Tel Lystra",
+        "precision_meters": 50,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      14,
+      16
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Lystra",
+    "place_id": "af0719d",
+    "slug": "lystra",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44014006",
+      "44014008",
+      "44014021",
+      "44016001",
+      "44016002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 33.509167,
+        "lon": 36.311389,
+        "lonlat_type": "representative point",
+        "modern_id": "mb2d6b9",
+        "name": "Straight Street",
+        "precision_meters": null,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      9
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Straight Street",
+    "place_id": "af23dbb",
+    "slug": "straight-street",
+    "sources": [],
+    "special_reason": null,
+    "type": "road",
+    "verses": [
+      "44009011"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 30.129444,
+        "lon": 31.3075,
+        "lonlat_type": "representative point",
+        "modern_id": "mb69a90",
+        "name": "Ain Shams",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      7,
+      13,
+      18
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 15,
+    "name": "Egypt",
+    "place_id": "af301ca",
+    "slug": "egypt",
+    "sources": [
+      {
+        "citation": "Schlegel, Satellite Bible Atlas (2016)",
+        "locator": null,
+        "source_id": "s339b20"
+      },
+      {
+        "citation": "Smith, Atlas of the Historical Geography of the Holy Land (1894)",
+        "locator": null,
+        "source_id": "s611b94"
+      },
+      {
+        "citation": "Baker Book of Bible Charts, Maps, and Time Lines (2016)",
+        "locator": null,
+        "source_id": "s61f084"
+      },
+      {
+        "citation": "New Moody Atlas of the Bible (2009)",
+        "locator": null,
+        "source_id": "s71fbbd"
+      },
+      {
+        "citation": "Rose Then and Now Bible Map Atlas (2013)",
+        "locator": null,
+        "source_id": "s72f20e"
+      },
+      {
+        "citation": "Carta Bible Atlas, 5th Edition (2011)",
+        "locator": null,
+        "source_id": "s7eb9df"
+      },
+      {
+        "citation": "Reader’s Digest Atlas of the Bible (1981)",
+        "locator": null,
+        "source_id": "s95bf51"
+      },
+      {
+        "citation": "Oxford Bible Atlas, Fourth Edition (2007)",
+        "locator": null,
+        "source_id": "s9703b2"
+      },
+      {
+        "citation": "Rand McNally Bible Atlas (1910)",
+        "locator": null,
+        "source_id": "s99de49"
+      },
+      {
+        "citation": "Zondervan Atlas of the Bible (2010)",
+        "locator": null,
+        "source_id": "s9bf83d"
+      },
+      {
+        "citation": "Holman Bible Atlas (1999)",
+        "locator": null,
+        "source_id": "s9c4f74"
+      },
+      {
+        "citation": "Tübingen Bible Atlas (2001)",
+        "locator": null,
+        "source_id": "sa4a163"
+      },
+      {
+        "citation": "Atlas of the Biblical World (2019)",
+        "locator": null,
+        "source_id": "sc8b133"
+      },
+      {
+        "citation": "HarperCollins Concise Atlas of the Bible (1991)",
+        "locator": null,
+        "source_id": "sd4e1db"
+      },
+      {
+        "citation": "HarperCollins Atlas of Bible History (2008)",
+        "locator": null,
+        "source_id": "se4b739"
+      },
+      {
+        "citation": "ESV Bible Atlas (2010)",
+        "locator": null,
+        "source_id": "sfd4d34"
+      }
+    ],
+    "special_reason": null,
+    "type": "region",
+    "verses": [
+      "44002010",
+      "44007009",
+      "44007010",
+      "44007011",
+      "44007012",
+      "44007014",
+      "44007015",
+      "44007017",
+      "44007018",
+      "44007034",
+      "44007036",
+      "44007039",
+      "44007040",
+      "44013017",
+      "44018024"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 32.70214,
+        "lon": 35.29769,
+        "lonlat_type": "point",
+        "modern_id": "mb3f688",
+        "name": "Nazareth",
+        "precision_meters": 10,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      3,
+      4,
+      6,
+      10,
+      22,
+      26
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 7,
+    "name": "Nazareth",
+    "place_id": "af5884f",
+    "slug": "nazareth",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44002022",
+      "44003006",
+      "44004010",
+      "44006014",
+      "44010038",
+      "44022008",
+      "44026009"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 35.184944,
+        "lon": 33.901944,
+        "lonlat_type": "point",
+        "modern_id": "md31e56",
+        "name": "Salamis",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Salamis",
+    "place_id": "afa863b",
+    "slug": "salamis",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013005"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 40.637771,
+        "lon": 22.945767,
+        "lonlat_type": "point",
+        "modern_id": "mdadcc0",
+        "name": "Thessaloniki",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      17,
+      20,
+      27
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 5,
+    "name": "Thessalonica",
+    "place_id": "afa9d8e",
+    "slug": "thessalonica",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44017001",
+      "44017011",
+      "44017013",
+      "44020004",
+      "44027002"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.8922,
+        "lon": 12.4852,
+        "lonlat_type": "point",
+        "modern_id": "mb083bc",
+        "name": "Rome",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      2,
+      18,
+      19,
+      23,
+      25,
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 11,
+    "name": "Rome",
+    "place_id": "afc8e7a",
+    "slug": "rome",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44002010",
+      "44018002",
+      "44019021",
+      "44019040",
+      "44023011",
+      "44025025",
+      "44025027",
+      "44028014",
+      "44028015",
+      "44028016",
+      "44028030"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 41.561944,
+        "lon": 12.873889,
+        "lonlat_type": "point",
+        "modern_id": "m8996a4",
+        "name": "Three Taverns",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      28
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 1,
+    "name": "Three Taverns",
+    "place_id": "afef438",
+    "slug": "three-taverns",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44028015"
+    ]
+  },
+  {
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "lat": 36.960353,
+        "lon": 30.853686,
+        "lonlat_type": "point",
+        "modern_id": "me63472",
+        "name": "Perga",
+        "precision_meters": 5,
+        "probability": 1.0,
+        "score": 1000
+      }
+    ],
+    "chapters": [
+      13,
+      14
+    ],
+    "dispersion_index": 0.0,
+    "is_locatable": true,
+    "mention_count": 3,
+    "name": "Perga",
+    "place_id": "aff04b8",
+    "slug": "perga",
+    "sources": [],
+    "special_reason": null,
+    "type": "settlement",
+    "verses": [
+      "44013013",
+      "44013014",
+      "44014025"
+    ]
+  }
+]

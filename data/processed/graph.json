@@ -1,0 +1,9590 @@
+{
+  "edges": [
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a217d18",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a32a4f8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a3d18b2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a012705",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a040ba5",
+      "target": "a149f13",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a040ba5",
+      "target": "a15257a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a040ba5",
+      "target": "a282dce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a040ba5",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a040ba5",
+      "target": "ac2c4c5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a15257a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a197f19",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a33910d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a4492a0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a49e1d0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a0a2ca7",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a15257a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a197f19",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a1fe6e7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a2d9bc8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a4492a0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a49e1d0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a69e1b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a6f437a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        18
+      ],
+      "source": "a0f440a",
+      "target": "ab8ae56",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a0f440a",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a0f440a",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a149f13",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a15257a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a1e3697",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a4488e9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a57835d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a121d5e",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        2,
+        8,
+        9,
+        10,
+        11,
+        12,
+        15,
+        21,
+        26,
+        28
+      ],
+      "source": "a149f13",
+      "target": "a15257a",
+      "weight": 11
+    },
+    {
+      "chapters": [
+        12,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a160272",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a197f19",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "a1e3697",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        8,
+        9,
+        15
+      ],
+      "source": "a149f13",
+      "target": "a282dce",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a149f13",
+      "target": "a2c5cc7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        15,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a2e7601",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a149f13",
+      "target": "a30c937",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        15,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a33d53e",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "a33fbde",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a149f13",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a149f13",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "a4488e9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "a57835d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a58735e",
+      "weight": 6
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a149f13",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        11,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a666ea0",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        9,
+        26
+      ],
+      "source": "a149f13",
+      "target": "a69c1d4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        11
+      ],
+      "source": "a149f13",
+      "target": "a81cdb5",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a149f13",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a149f13",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "source": "a149f13",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        2,
+        9,
+        10
+      ],
+      "source": "a149f13",
+      "target": "a9cf1e8",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a149f13",
+      "target": "aa8edd2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        15
+      ],
+      "source": "a149f13",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a149f13",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a149f13",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a149f13",
+      "target": "ac2c4c5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a149f13",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a149f13",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        10,
+        11
+      ],
+      "source": "a149f13",
+      "target": "ae023a9",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        11,
+        15
+      ],
+      "source": "a149f13",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a149f13",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a149f13",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        10,
+        26
+      ],
+      "source": "a149f13",
+      "target": "af5884f",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        2,
+        28
+      ],
+      "source": "a149f13",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a149f13",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        12,
+        21
+      ],
+      "source": "a15257a",
+      "target": "a160272",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        6,
+        16,
+        19,
+        20,
+        21,
+        24
+      ],
+      "source": "a15257a",
+      "target": "a197f19",
+      "weight": 7
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a15257a",
+      "target": "a1e3697",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a15257a",
+      "target": "a1fe6e7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        8,
+        9,
+        15
+      ],
+      "source": "a15257a",
+      "target": "a282dce",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a15257a",
+      "target": "a2c5cc7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "a2d9bc8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        4,
+        11,
+        13,
+        15,
+        21
+      ],
+      "source": "a15257a",
+      "target": "a2e7601",
+      "weight": 5
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a15257a",
+      "target": "a30c937",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "a314765",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "a33910d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        15,
+        21
+      ],
+      "source": "a15257a",
+      "target": "a33d53e",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a15257a",
+      "target": "a33fbde",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a15257a",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a15257a",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a15257a",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a15257a",
+      "target": "a4488e9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a15257a",
+      "target": "a4492a0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "source": "a15257a",
+      "target": "a47c817",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a15257a",
+      "target": "a49e1d0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "a55aded",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a15257a",
+      "target": "a57835d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        18,
+        21,
+        23,
+        24,
+        25
+      ],
+      "source": "a15257a",
+      "target": "a58735e",
+      "weight": 10
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "source": "a15257a",
+      "target": "a5feb15",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a15257a",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        11,
+        21,
+        22
+      ],
+      "source": "a15257a",
+      "target": "a666ea0",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        22,
+        26
+      ],
+      "source": "a15257a",
+      "target": "a69c1d4",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        16,
+        18,
+        19,
+        20
+      ],
+      "source": "a15257a",
+      "target": "a69e1b8",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "a6c704a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a15257a",
+      "target": "a6f437a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a15257a",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "source": "a15257a",
+      "target": "a7b2e63",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        6,
+        11,
+        13
+      ],
+      "source": "a15257a",
+      "target": "a81cdb5",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "a15257a",
+      "target": "a83a43e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a15257a",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        18,
+        20,
+        21
+      ],
+      "source": "a15257a",
+      "target": "a890adf",
+      "weight": 4
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a15257a",
+      "target": "a91c509",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "source": "a15257a",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        2,
+        5,
+        9,
+        10,
+        13
+      ],
+      "source": "a15257a",
+      "target": "a9cf1e8",
+      "weight": 6
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a15257a",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a15257a",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a15257a",
+      "target": "aa8edd2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13,
+        15
+      ],
+      "source": "a15257a",
+      "target": "aa95188",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a15257a",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        16,
+        18
+      ],
+      "source": "a15257a",
+      "target": "ab8ae56",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a15257a",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a15257a",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a15257a",
+      "target": "ac2c4c5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6,
+        15,
+        21,
+        22,
+        23
+      ],
+      "source": "a15257a",
+      "target": "ad63819",
+      "weight": 5
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a15257a",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        10,
+        11
+      ],
+      "source": "a15257a",
+      "target": "ae023a9",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        6,
+        11,
+        13,
+        15,
+        18
+      ],
+      "source": "a15257a",
+      "target": "ae41ab4",
+      "weight": 5
+    },
+    {
+      "chapters": [
+        13,
+        16
+      ],
+      "source": "a15257a",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        6,
+        18,
+        28
+      ],
+      "source": "a15257a",
+      "target": "aee7248",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a15257a",
+      "target": "aef4242",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a15257a",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a15257a",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13,
+        18
+      ],
+      "source": "a15257a",
+      "target": "af301ca",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        2,
+        4,
+        6,
+        10,
+        22,
+        26
+      ],
+      "source": "a15257a",
+      "target": "af5884f",
+      "weight": 6
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a15257a",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18,
+        19,
+        23,
+        25,
+        28
+      ],
+      "source": "a15257a",
+      "target": "afc8e7a",
+      "weight": 6
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a15257a",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a15257a",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a197f19",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a33d53e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        12,
+        21
+      ],
+      "source": "a160272",
+      "target": "a58735e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "source": "a160272",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a160272",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a197f19",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a19fd03",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a1c44ea",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a26aa94",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a184f3a",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a19fd03",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a1c44ea",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a26aa94",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "a2d9bc8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21,
+        27
+      ],
+      "source": "a197f19",
+      "target": "a2e7601",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "a33910d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "a33d53e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "a33fbde",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a197f19",
+      "target": "a4492a0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a197f19",
+      "target": "a49e1d0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21,
+        24
+      ],
+      "source": "a197f19",
+      "target": "a58735e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        19,
+        20,
+        21
+      ],
+      "source": "a197f19",
+      "target": "a5feb15",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        19,
+        20
+      ],
+      "source": "a197f19",
+      "target": "a69e1b8",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        19
+      ],
+      "source": "a197f19",
+      "target": "a6f437a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        6
+      ],
+      "source": "a197f19",
+      "target": "a81cdb5",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20,
+        21
+      ],
+      "source": "a197f19",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a197f19",
+      "target": "a91c509",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a197f19",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        27
+      ],
+      "source": "a197f19",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        16
+      ],
+      "source": "a197f19",
+      "target": "ab8ae56",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a197f19",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6,
+        21,
+        27
+      ],
+      "source": "a197f19",
+      "target": "ad63819",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a197f19",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a197f19",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "source": "a197f19",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6,
+        27
+      ],
+      "source": "a197f19",
+      "target": "aee7248",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        19
+      ],
+      "source": "a197f19",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a197f19",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a197f19",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        6
+      ],
+      "source": "a197f19",
+      "target": "af5884f",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20,
+        27
+      ],
+      "source": "a197f19",
+      "target": "afa9d8e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        19
+      ],
+      "source": "a197f19",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a1c44ea",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a26aa94",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a19fd03",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a26aa94",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a1c44ea",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "a4488e9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "a57835d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a1e3697",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a1fe6e7",
+      "target": "a4bdea7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a1fe6e7",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a6f437a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a1fe6e7",
+      "target": "a815d89",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a1fe6e7",
+      "target": "ab20df9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a1fe6e7",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a1fe6e7",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "a32a4f8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "a3d18b2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a217d18",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a26aa94",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "a2c5cc7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "a2e7601",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a282dce",
+      "target": "a30c937",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "a33d53e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8,
+        9
+      ],
+      "source": "a282dce",
+      "target": "a58735e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "a69c1d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1,
+        9
+      ],
+      "source": "a282dce",
+      "target": "a9cf1e8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a282dce",
+      "target": "aa8edd2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a282dce",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a282dce",
+      "target": "ac2c4c5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a282dce",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a282dce",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "a69c1d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a2c5cc7",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a4492a0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a49e1d0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a2d9bc8",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a314765",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        15,
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a33d53e",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a55aded",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "a56788c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a58735e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a666ea0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a6c704a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a81cdb5",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a2e7601",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        15,
+        27
+      ],
+      "source": "a2e7601",
+      "target": "aa95188",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a2e7601",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21,
+        27
+      ],
+      "source": "a2e7601",
+      "target": "ad63819",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a2e7601",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a2e7601",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        13,
+        15
+      ],
+      "source": "a2e7601",
+      "target": "ae41ab4",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        4
+      ],
+      "source": "a2e7601",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a2e7601",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a2e7601",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a30c937",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a30c937",
+      "target": "aa8edd2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a30c937",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a55aded",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a6c704a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a314765",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "a3d18b2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a32a4f8",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a4492a0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a49e1d0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a33910d",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a398e5d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a58735e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a666ea0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a33d53e",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a33d53e",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a33d53e",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a33d53e",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a33d53e",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a33d53e",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a33d53e",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11,
+        15
+      ],
+      "source": "a33d53e",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a33fbde",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "a55aded",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "a6c704a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "ac744c1",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a3668b6",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "a4218ee",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a398e5d",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "a43f60f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a3d18b2",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "a58735e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a4218ee",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a43f60f",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a43f60f",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a43f60f",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a43f60f",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a43f60f",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        7
+      ],
+      "source": "a43f60f",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a43f60f",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a4488e9",
+      "target": "a57835d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a4488e9",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a4488e9",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a4488e9",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a4488e9",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a49e1d0",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a69e1b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a4492a0",
+      "target": "a91c509",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a4492a0",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a4492a0",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4492a0",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        3
+      ],
+      "source": "a47c817",
+      "target": "a5c37fd",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "source": "a47c817",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        3
+      ],
+      "source": "a47c817",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a4c2c75",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "a5c0cb0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a69e1b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "a91c509",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a49e1d0",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a49e1d0",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a4bdea7",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a4bdea7",
+      "target": "a815d89",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a4bdea7",
+      "target": "ab20df9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a4bdea7",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a55027d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a4c2c75",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a5feb15",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a55027d",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "a581f0c",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a55aded",
+      "target": "a6c704a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a55aded",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a55aded",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a55aded",
+      "target": "ac744c1",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a55aded",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a55aded",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a55aded",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a55aded",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a55aded",
+      "target": "aff04b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a56788c",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a57835d",
+      "target": "a63bb26",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a57835d",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a57835d",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a57835d",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "a6c704a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a581f0c",
+      "target": "a6d9af3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a581f0c",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a581f0c",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a581f0c",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7,
+        13
+      ],
+      "source": "a581f0c",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a581f0c",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        21
+      ],
+      "source": "a58735e",
+      "target": "a5feb15",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        9,
+        11,
+        21
+      ],
+      "source": "a58735e",
+      "target": "a666ea0",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a58735e",
+      "target": "a69c1d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "a6f437a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "source": "a58735e",
+      "target": "a7b2e63",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a58735e",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a58735e",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        21
+      ],
+      "source": "a58735e",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "source": "a58735e",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        10
+      ],
+      "source": "a58735e",
+      "target": "a9cf1e8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a58735e",
+      "target": "aa8edd2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "a58735e",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a58735e",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21,
+        23
+      ],
+      "source": "a58735e",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a58735e",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        10,
+        11
+      ],
+      "source": "a58735e",
+      "target": "ae023a9",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        11,
+        18
+      ],
+      "source": "a58735e",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a58735e",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a58735e",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        10
+      ],
+      "source": "a58735e",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        23,
+        25
+      ],
+      "source": "a58735e",
+      "target": "afc8e7a",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "a68750d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a5c0cb0",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        3
+      ],
+      "source": "a5c37fd",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "a62fe31",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a5feb15",
+      "target": "a666ea0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19,
+        20
+      ],
+      "source": "a5feb15",
+      "target": "a69e1b8",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a5feb15",
+      "target": "a6f437a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        20,
+        21
+      ],
+      "source": "a5feb15",
+      "target": "a890adf",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a5feb15",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a5feb15",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a5feb15",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a5feb15",
+      "target": "aef4242",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a5feb15",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a5feb15",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a5feb15",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a62fe31",
+      "target": "a815d89",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a62fe31",
+      "target": "ab20df9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a62fe31",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17,
+        20
+      ],
+      "source": "a62fe31",
+      "target": "afa9d8e",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a63bb26",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a63bb26",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "a63bb26",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        22
+      ],
+      "source": "a666ea0",
+      "target": "a69c1d4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a666ea0",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a666ea0",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a666ea0",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a666ea0",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a666ea0",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21,
+        22
+      ],
+      "source": "a666ea0",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a666ea0",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        11
+      ],
+      "source": "a666ea0",
+      "target": "ae023a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a666ea0",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a666ea0",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        22
+      ],
+      "source": "a666ea0",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "a69e1b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a68750d",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a69c1d4",
+      "target": "a83fd43",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a69c1d4",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        22
+      ],
+      "source": "a69c1d4",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a69c1d4",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a69c1d4",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        22,
+        26
+      ],
+      "source": "a69c1d4",
+      "target": "af5884f",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a69e1b8",
+      "target": "a6a7150",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a69e1b8",
+      "target": "a6f437a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "a6f61d3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "a890adf",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "a91c509",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a69e1b8",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16,
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "ab8ae56",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a69e1b8",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a69e1b8",
+      "target": "aef4242",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a69e1b8",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a69e1b8",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a69e1b8",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a69e1b8",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a6a7150",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6c704a",
+      "target": "a6d306d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6c704a",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6c704a",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a6c704a",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a6c704a",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a6c704a",
+      "target": "ac744c1",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a6c704a",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a6c704a",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "a6c704a",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6c704a",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6c704a",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "a6c704a",
+      "target": "aff04b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "a81cdb5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a6d306d",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a6d9af3",
+      "target": "abfba2a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a6d9af3",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a6d9af3",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "a6d9af3",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "a7184a7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a6f437a",
+      "target": "aef4242",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a6f437a",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "a6f437a",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a6f61d3",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a6f61d3",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a6f61d3",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a6f61d3",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a6f61d3",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "a98e4d7",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        27
+      ],
+      "source": "a7184a7",
+      "target": "aee7248",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a7184a7",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a7184a7",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "source": "a7b2e63",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "source": "a7b2e63",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a815d89",
+      "target": "ab20df9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "a815d89",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a81cdb5",
+      "target": "a83a43e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "a9cf1e8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a81cdb5",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a81cdb5",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "source": "a81cdb5",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "a81cdb5",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6,
+        11,
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "ae41ab4",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "source": "a81cdb5",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        6
+      ],
+      "source": "a81cdb5",
+      "target": "af5884f",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a81cdb5",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a81cdb5",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a83a43e",
+      "target": "a890adf",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a83a43e",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a83a43e",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a83a43e",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "a83a43e",
+      "target": "ab8ae56",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a83a43e",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a83a43e",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a83a43e",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a83a43e",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "a83a43e",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a83a43e",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "a83a43e",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a83fd43",
+      "target": "a9cf1e8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a83fd43",
+      "target": "ae023a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a83fd43",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a890adf",
+      "target": "a91c509",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "aa31dd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a890adf",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15
+      ],
+      "source": "a890adf",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a890adf",
+      "target": "abc2af0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a890adf",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        21
+      ],
+      "source": "a890adf",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "a890adf",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        18
+      ],
+      "source": "a890adf",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a890adf",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "a890adf",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a91c509",
+      "target": "a94b661",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16,
+        20
+      ],
+      "source": "a91c509",
+      "target": "aa401a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a91c509",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a91c509",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a91c509",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a91c509",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "a91c509",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a94b661",
+      "target": "aa401a9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a94b661",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a94b661",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "a94b661",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "a9ee958",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a98e4d7",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "aa95188",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a9cf1e8",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a9cf1e8",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        1
+      ],
+      "source": "a9cf1e8",
+      "target": "ac2c4c5",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9,
+        10
+      ],
+      "source": "a9cf1e8",
+      "target": "ae023a9",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "a9cf1e8",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2,
+        10
+      ],
+      "source": "a9cf1e8",
+      "target": "af5884f",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "a9cf1e8",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "a9cf1e8",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "aa4b3e2",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "a9ee958",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aa31dd3",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa401a9",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "aa401a9",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa401a9",
+      "target": "ac744c1",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "aa401a9",
+      "target": "acf6ec0",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa401a9",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14,
+        16
+      ],
+      "source": "aa401a9",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14,
+        16
+      ],
+      "source": "aa401a9",
+      "target": "af0719d",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "aa401a9",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa401a9",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "aa95188",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa4b3e2",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "source": "aa8edd2",
+      "target": "ab45bd3",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "aae626a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "aa95188",
+      "target": "ab8ae56",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "aa95188",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa95188",
+      "target": "ac744c1",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        15,
+        27
+      ],
+      "source": "aa95188",
+      "target": "ad63819",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14,
+        15
+      ],
+      "source": "aa95188",
+      "target": "ae41ab4",
+      "weight": 3
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "aa95188",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "aa95188",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        13
+      ],
+      "source": "aa95188",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "aa95188",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "aa95188",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aa95188",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "aa95188",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "aa95188",
+      "target": "aff04b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "ab793ce",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aae626a",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        17
+      ],
+      "source": "ab20df9",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "aca2b0a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ab793ce",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "ab8ae56",
+      "target": "ac12af9",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "ab8ae56",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "ab8ae56",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "ab8ae56",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "ab8ae56",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        16
+      ],
+      "source": "ab8ae56",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "ab8ae56",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "ab8ae56",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "ab8ae56",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "abc2af0",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "abc2af0",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "abfba2a",
+      "target": "acc6d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "abfba2a",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "abfba2a",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "ac12af9",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "ac12af9",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "ac12af9",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "ac744c1",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "ac744c1",
+      "target": "ae425aa",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "ac744c1",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "ac744c1",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aca2b0a",
+      "target": "ad36371",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aca2b0a",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aca2b0a",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aca2b0a",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aca2b0a",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "acc6d8e",
+      "target": "adf74d4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "acc6d8e",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        20
+      ],
+      "source": "acf6ec0",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad36371",
+      "target": "ad63819",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad36371",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad36371",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad36371",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad63819",
+      "target": "adc77fb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        21
+      ],
+      "source": "ad63819",
+      "target": "ade301b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6,
+        15
+      ],
+      "source": "ad63819",
+      "target": "ae41ab4",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        6,
+        27
+      ],
+      "source": "ad63819",
+      "target": "aee7248",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        6,
+        22
+      ],
+      "source": "ad63819",
+      "target": "af5884f",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "ad63819",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        23
+      ],
+      "source": "ad63819",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "adc77fb",
+      "target": "aee7248",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "adc77fb",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "source": "adf74d4",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "source": "ae023a9",
+      "target": "ae41ab4",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "source": "ae023a9",
+      "target": "af23dbb",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        10
+      ],
+      "source": "ae023a9",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "ae41ab4",
+      "target": "ae425aa",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        6,
+        18
+      ],
+      "source": "ae41ab4",
+      "target": "aee7248",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "ae41ab4",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "ae41ab4",
+      "target": "af0719d",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        18
+      ],
+      "source": "ae41ab4",
+      "target": "af301ca",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "source": "ae41ab4",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "ae41ab4",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "ae41ab4",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "ae41ab4",
+      "target": "aff04b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14,
+        16
+      ],
+      "source": "ae425aa",
+      "target": "af0719d",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "ae425aa",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "ae425aa",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13,
+        14
+      ],
+      "source": "ae425aa",
+      "target": "aff04b8",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aee7248",
+      "target": "aef4242",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aee7248",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "source": "aee7248",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        27
+      ],
+      "source": "aee7248",
+      "target": "afa9d8e",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        28
+      ],
+      "source": "aee7248",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "aee7248",
+      "target": "afef438",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18
+      ],
+      "source": "aef4242",
+      "target": "af301ca",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        18,
+        19
+      ],
+      "source": "aef4242",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        14
+      ],
+      "source": "af0719d",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "af301ca",
+      "target": "af5884f",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "af301ca",
+      "target": "afa863b",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2,
+        18
+      ],
+      "source": "af301ca",
+      "target": "afc8e7a",
+      "weight": 2
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "af301ca",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        2
+      ],
+      "source": "af5884f",
+      "target": "afc8e7a",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "source": "afa863b",
+      "target": "aff04b8",
+      "weight": 1
+    },
+    {
+      "chapters": [
+        28
+      ],
+      "source": "afc8e7a",
+      "target": "afef438",
+      "weight": 1
+    }
+  ],
+  "nodes": [
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a012705",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 5,
+      "place_id": "a040ba5",
+      "weighted_degree": 5
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "a0a2ca7",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.005050988567716013,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 28,
+      "place_id": "a0f440a",
+      "weighted_degree": 31
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a121d5e",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.046569307046843665,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 45,
+      "place_id": "a149f13",
+      "weighted_degree": 85
+    },
+    {
+      "betweenness": 0.22859032131363588,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 80,
+      "place_id": "a15257a",
+      "weighted_degree": 174
+    },
+    {
+      "betweenness": 0.00018512036032251663,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a160272",
+      "weighted_degree": 18
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a184f3a",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.08895861590125212,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 64,
+      "place_id": "a197f19",
+      "weighted_degree": 91
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a19fd03",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a1c44ea",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a1e3697",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.022299742190984864,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 21,
+      "place_id": "a1fe6e7",
+      "weighted_degree": 21
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a217d18",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a26aa94",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.006737065407945485,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 21,
+      "place_id": "a282dce",
+      "weighted_degree": 29
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a2c5cc7",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a2d9bc8",
+      "weighted_degree": 15
+    },
+    {
+      "betweenness": 0.04236404910622861,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 46,
+      "place_id": "a2e7601",
+      "weighted_degree": 65
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 6,
+      "place_id": "a30c937",
+      "weighted_degree": 6
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "a314765",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a32a4f8",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "a33910d",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.0009165032909535676,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a33d53e",
+      "weighted_degree": 30
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 13,
+      "place_id": "a33fbde",
+      "weighted_degree": 13
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a3668b6",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "a398e5d",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a3d18b2",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "a4218ee",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.03164392944874948,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 22,
+      "place_id": "a43f60f",
+      "weighted_degree": 23
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a4488e9",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.0023981414412681252,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 25,
+      "place_id": "a4492a0",
+      "weighted_degree": 31
+    },
+    {
+      "betweenness": 0.002412499072308974,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 4,
+      "place_id": "a47c817",
+      "weighted_degree": 4
+    },
+    {
+      "betweenness": 0.0023981414412681252,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 25,
+      "place_id": "a49e1d0",
+      "weighted_degree": 31
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 5,
+      "place_id": "a4bdea7",
+      "weighted_degree": 5
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "a4c2c75",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "a55027d",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.002203557947493257,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 18,
+      "place_id": "a55aded",
+      "weighted_degree": 23
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a56788c",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a57835d",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.02574240019856002,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 23,
+      "place_id": "a581f0c",
+      "weighted_degree": 24
+    },
+    {
+      "betweenness": 0.027967505424500768,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 41,
+      "place_id": "a58735e",
+      "weighted_degree": 71
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a5c0cb0",
+      "weighted_degree": 15
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 2,
+      "place_id": "a5c37fd",
+      "weighted_degree": 2
+    },
+    {
+      "betweenness": 0.01545855740637591,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 39,
+      "place_id": "a5feb15",
+      "weighted_degree": 52
+    },
+    {
+      "betweenness": 0.010337481926183813,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 20,
+      "place_id": "a62fe31",
+      "weighted_degree": 21
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "a63bb26",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.0038793838396481636,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 24,
+      "place_id": "a666ea0",
+      "weighted_degree": 36
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a68750d",
+      "weighted_degree": 15
+    },
+    {
+      "betweenness": 0.000495751917367429,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 12,
+      "place_id": "a69c1d4",
+      "weighted_degree": 17
+    },
+    {
+      "betweenness": 0.011246685154248181,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 36,
+      "place_id": "a69e1b8",
+      "weighted_degree": 53
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a6a7150",
+      "weighted_degree": 15
+    },
+    {
+      "betweenness": 0.002203557947493257,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 18,
+      "place_id": "a6c704a",
+      "weighted_degree": 23
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "a6d306d",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a6d9af3",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 2.2549900463329986e-05,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 17,
+      "place_id": "a6f437a",
+      "weighted_degree": 22
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "a6f61d3",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.012590596536536979,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 34,
+      "place_id": "a7184a7",
+      "weighted_degree": 35
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 4,
+      "place_id": "a7b2e63",
+      "weighted_degree": 4
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 5,
+      "place_id": "a815d89",
+      "weighted_degree": 5
+    },
+    {
+      "betweenness": 0.005579812179329842,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 29,
+      "place_id": "a81cdb5",
+      "weighted_degree": 41
+    },
+    {
+      "betweenness": 0.0022069170165352208,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 25,
+      "place_id": "a83a43e",
+      "weighted_degree": 29
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "a83fd43",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.01786813943473991,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 41,
+      "place_id": "a890adf",
+      "weighted_degree": 54
+    },
+    {
+      "betweenness": 0.0023981414412681252,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 25,
+      "place_id": "a91c509",
+      "weighted_degree": 31
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "a94b661",
+      "weighted_degree": 15
+    },
+    {
+      "betweenness": 0.003781824022726368,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 23,
+      "place_id": "a98e4d7",
+      "weighted_degree": 23
+    },
+    {
+      "betweenness": 0.021779333468336964,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 34,
+      "place_id": "a9cf1e8",
+      "weighted_degree": 49
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "a9ee958",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "aa31dd3",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.012718284660333182,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 32,
+      "place_id": "aa401a9",
+      "weighted_degree": 40
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "aa4b3e2",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 6,
+      "place_id": "aa8edd2",
+      "weighted_degree": 6
+    },
+    {
+      "betweenness": 0.05033045710155522,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 47,
+      "place_id": "aa95188",
+      "weighted_degree": 63
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "aae626a",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 5,
+      "place_id": "ab20df9",
+      "weighted_degree": 5
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 6,
+      "place_id": "ab45bd3",
+      "weighted_degree": 6
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "ab793ce",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.012637985399086085,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 36,
+      "place_id": "ab8ae56",
+      "weighted_degree": 44
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "abc2af0",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "abfba2a",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 13,
+      "place_id": "ac12af9",
+      "weighted_degree": 13
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 5,
+      "place_id": "ac2c4c5",
+      "weighted_degree": 5
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "ac744c1",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "aca2b0a",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "acc6d8e",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 16,
+      "place_id": "acf6ec0",
+      "weighted_degree": 16
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "ad36371",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.02168870003003458,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 38,
+      "place_id": "ad63819",
+      "weighted_degree": 55
+    },
+    {
+      "betweenness": 0.0,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 19,
+      "place_id": "adc77fb",
+      "weighted_degree": 19
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "ade301b",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "adf74d4",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0009272280981697552,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 15,
+      "place_id": "ae023a9",
+      "weighted_degree": 23
+    },
+    {
+      "betweenness": 0.021310618073859245,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 40,
+      "place_id": "ae41ab4",
+      "weighted_degree": 61
+    },
+    {
+      "betweenness": 0.012161953849285386,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 30,
+      "place_id": "ae425aa",
+      "weighted_degree": 38
+    },
+    {
+      "betweenness": 0.038709767956628394,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 43,
+      "place_id": "aee7248",
+      "weighted_degree": 50
+    },
+    {
+      "betweenness": 2.2549900463329986e-05,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 17,
+      "place_id": "aef4242",
+      "weighted_degree": 22
+    },
+    {
+      "betweenness": 0.003612763297399415,
+      "community": 4,
+      "community_is_connected": true,
+      "degree": 22,
+      "place_id": "af0719d",
+      "weighted_degree": 24
+    },
+    {
+      "betweenness": 0.0,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 10,
+      "place_id": "af23dbb",
+      "weighted_degree": 10
+    },
+    {
+      "betweenness": 0.0896533477006383,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 42,
+      "place_id": "af301ca",
+      "weighted_degree": 53
+    },
+    {
+      "betweenness": 0.020558215904931756,
+      "community": 1,
+      "community_is_connected": true,
+      "degree": 23,
+      "place_id": "af5884f",
+      "weighted_degree": 35
+    },
+    {
+      "betweenness": 0.0,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 14,
+      "place_id": "afa863b",
+      "weighted_degree": 14
+    },
+    {
+      "betweenness": 0.040169431697762735,
+      "community": 2,
+      "community_is_connected": true,
+      "degree": 38,
+      "place_id": "afa9d8e",
+      "weighted_degree": 40
+    },
+    {
+      "betweenness": 0.015508068794775945,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 33,
+      "place_id": "afc8e7a",
+      "weighted_degree": 50
+    },
+    {
+      "betweenness": 0.0,
+      "community": 0,
+      "community_is_connected": true,
+      "degree": 9,
+      "place_id": "afef438",
+      "weighted_degree": 9
+    },
+    {
+      "betweenness": 0.002203557947493257,
+      "community": 3,
+      "community_is_connected": true,
+      "degree": 18,
+      "place_id": "aff04b8",
+      "weighted_degree": 23
+    }
+  ],
+  "unit": "chapter"
+}

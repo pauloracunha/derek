@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "uncertainty.schema.json",
+  "title": "uncertainty.json",
+  "description": "Resultado da propagação Monte Carlo, restrita a métricas que dependem de distância (Constitution / FR-013, FR-014). Consumido pelo relatório e, opcionalmente, por um painel resumido na UI.",
+  "type": "object",
+  "required": ["n_simulations", "seed", "metrics", "place_rank_stability"],
+  "properties": {
+    "n_simulations": { "type": "integer", "const": 1000 },
+    "seed": { "type": "integer" },
+    "metrics": {
+      "type": "object",
+      "description": "Uma entrada por métrica escalar de distância (comprimento total, distância média, área do fecho convexo, itinerário narrativo). Centralidade geográfica é um RANKING por lugar, não escalar — vive em `place_rank_stability[]`, não aqui (grill 2026-08-11 Q1). Métricas topológicas puras NUNCA aparecem aqui.",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["mean", "ci_low", "ci_high", "deterministic"],
+        "properties": {
+          "mean": { "type": "number" },
+          "ci_low": { "type": "number", "description": "Percentil 2.5" },
+          "ci_high": { "type": "number", "description": "Percentil 97.5" },
+          "deterministic": { "type": "number", "description": "Valor usando apenas o candidato de maior score, para comparação." }
+        }
+      }
+    },
+    "place_rank_stability": {
+      "type": "array",
+      "description": "Estabilidade do ranking de centralidade geográfica (distância ao centroide ponderado) de cada lugar através das simulações — o destino real da 'centralidade geográfica' (grill 2026-08-11 Q1).",
+      "items": {
+        "type": "object",
+        "required": ["place_id", "modal_rank", "rank_ci"],
+        "properties": {
+          "place_id": { "type": "string" },
+          "modal_rank": { "type": "integer", "minimum": 1 },
+          "rank_ci": {
+            "type": "array",
+            "items": { "type": "integer" },
+            "minItems": 2,
+            "maxItems": 2
+          }
+        }
+      }
+    }
+  }
+}

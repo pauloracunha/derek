@@ -1,0 +1,26 @@
+# Data (raw/interim not versioned — see data-model.md / Constitution V)
+data/raw/
+data/interim/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Node / web
+web/node_modules/
+web/dist/
+web/.vite/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

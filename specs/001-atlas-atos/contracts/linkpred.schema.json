@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "linkpred.schema.json",
+  "title": "linkpred.json",
+  "description": "Resultado da avaliação de predição de links (6 modelos x 2 estratégias de amostragem negativa). Artefato de RELATÓRIO — não consumido pela UI interativa (decisão da sessão de clarificação 2026-08-02, FR-015).",
+  "type": "object",
+  "required": ["graph_stats", "results", "top_candidates"],
+  "properties": {
+    "graph_stats": {
+      "type": "object",
+      "required": ["nodes", "edges", "density"],
+      "properties": {
+        "nodes": { "type": "integer", "minimum": 0 },
+        "edges": { "type": "integer", "minimum": 0 },
+        "density": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "results": {
+      "type": "array",
+      "description": "Uma entrada por (modelo, estratégia de amostragem negativa). Ambas as estratégias DEVEM estar presentes para cada um dos 6 modelos — nunca reportar só uma (FR-015).",
+      "items": {
+        "type": "object",
+        "required": ["model", "negative_sampling", "auc", "ap", "precision_at_k"],
+        "properties": {
+          "model": {
+            "type": "string",
+            "enum": ["common_neighbors", "jaccard", "adamic_adar", "preferential_attachment", "node2vec_lr", "node2vec_gbm"]
+          },
+          "negative_sampling": { "type": "string", "enum": ["random", "distance_matched"] },
+          "auc": { "type": "number", "minimum": 0, "maximum": 1 },
+          "ap": { "type": "number", "minimum": 0, "maximum": 1 },
+          "precision_at_k": {
+            "type": "object",
+            "properties": {
+              "50": { "type": "number" },
+              "100": { "type": "number" },
+              "500": { "type": "number" }
+            }
+          }
+        }
+      }
+    },
+    "top_candidates": {
+      "type": "array",
+      "description": "Top 100 arestas de maior score fora do catálogo conhecido.",
+      "items": {
+        "type": "object",
+        "required": ["from", "to", "score", "in_catalog"],
+        "properties": {
+          "from": { "type": "string" },
+          "to": { "type": "string" },
+          "score": { "type": "number" },
+          "in_catalog": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}

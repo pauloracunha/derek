@@ -1,0 +1,888 @@
+{
+  "metrics": {
+    "convex_hull_area_km2": {
+      "ci_high": 4843277.712788653,
+      "ci_low": 4843277.712788653,
+      "deterministic": 4843277.712788653,
+      "mean": 4843277.712788653
+    },
+    "mean_edge_distance_km": {
+      "ci_high": 629.9429699632661,
+      "ci_low": 628.5258575411438,
+      "deterministic": 629.927310861586,
+      "mean": 629.4969711631992
+    },
+    "narrative_itinerary_length_km": {
+      "ci_high": 154145.42940016967,
+      "ci_low": 153321.9249664856,
+      "deterministic": 153859.5422480898,
+      "mean": 153737.00056296488
+    },
+    "total_network_length_km": {
+      "ci_high": 667109.6051910988,
+      "ci_low": 665608.8831360714,
+      "deterministic": 667093.0222024196,
+      "mean": 666637.2924618279
+    }
+  },
+  "n_simulations": 1000,
+  "place_rank_stability": [
+    {
+      "modal_rank": 21,
+      "place_id": "a012705",
+      "rank_ci": [
+        21,
+        21
+      ]
+    },
+    {
+      "modal_rank": 58,
+      "place_id": "a040ba5",
+      "rank_ci": [
+        58,
+        60
+      ]
+    },
+    {
+      "modal_rank": 72,
+      "place_id": "a0a2ca7",
+      "rank_ci": [
+        71,
+        73
+      ]
+    },
+    {
+      "modal_rank": 43,
+      "place_id": "a0f440a",
+      "rank_ci": [
+        43,
+        44
+      ]
+    },
+    {
+      "modal_rank": 103,
+      "place_id": "a121d5e",
+      "rank_ci": [
+        103,
+        103
+      ]
+    },
+    {
+      "modal_rank": 54,
+      "place_id": "a149f13",
+      "rank_ci": [
+        54,
+        56
+      ]
+    },
+    {
+      "modal_rank": 55,
+      "place_id": "a15257a",
+      "rank_ci": [
+        55,
+        57
+      ]
+    },
+    {
+      "modal_rank": 24,
+      "place_id": "a160272",
+      "rank_ci": [
+        23,
+        26
+      ]
+    },
+    {
+      "modal_rank": 69,
+      "place_id": "a184f3a",
+      "rank_ci": [
+        68,
+        70
+      ]
+    },
+    {
+      "modal_rank": 28,
+      "place_id": "a197f19",
+      "rank_ci": [
+        28,
+        29
+      ]
+    },
+    {
+      "modal_rank": 7,
+      "place_id": "a19fd03",
+      "rank_ci": [
+        7,
+        7
+      ]
+    },
+    {
+      "modal_rank": 22,
+      "place_id": "a1c44ea",
+      "rank_ci": [
+        22,
+        22
+      ]
+    },
+    {
+      "modal_rank": 99,
+      "place_id": "a1e3697",
+      "rank_ci": [
+        99,
+        99
+      ]
+    },
+    {
+      "modal_rank": 74,
+      "place_id": "a1fe6e7",
+      "rank_ci": [
+        73,
+        75
+      ]
+    },
+    {
+      "modal_rank": 96,
+      "place_id": "a217d18",
+      "rank_ci": [
+        96,
+        96
+      ]
+    },
+    {
+      "modal_rank": 62,
+      "place_id": "a26aa94",
+      "rank_ci": [
+        61,
+        63
+      ]
+    },
+    {
+      "modal_rank": 44,
+      "place_id": "a282dce",
+      "rank_ci": [
+        43,
+        45
+      ]
+    },
+    {
+      "modal_rank": 46,
+      "place_id": "a2c5cc7",
+      "rank_ci": [
+        46,
+        47
+      ]
+    },
+    {
+      "modal_rank": 66,
+      "place_id": "a2d9bc8",
+      "rank_ci": [
+        65,
+        67
+      ]
+    },
+    {
+      "modal_rank": 3,
+      "place_id": "a2e7601",
+      "rank_ci": [
+        3,
+        3
+      ]
+    },
+    {
+      "modal_rank": 45,
+      "place_id": "a30c937",
+      "rank_ci": [
+        45,
+        46
+      ]
+    },
+    {
+      "modal_rank": 1,
+      "place_id": "a314765",
+      "rank_ci": [
+        1,
+        1
+      ]
+    },
+    {
+      "modal_rank": 100,
+      "place_id": "a32a4f8",
+      "rank_ci": [
+        100,
+        100
+      ]
+    },
+    {
+      "modal_rank": 67,
+      "place_id": "a33910d",
+      "rank_ci": [
+        66,
+        68
+      ]
+    },
+    {
+      "modal_rank": 25,
+      "place_id": "a33d53e",
+      "rank_ci": [
+        24,
+        27
+      ]
+    },
+    {
+      "modal_rank": 53,
+      "place_id": "a33fbde",
+      "rank_ci": [
+        53,
+        54
+      ]
+    },
+    {
+      "modal_rank": 16,
+      "place_id": "a3668b6",
+      "rank_ci": [
+        16,
+        16
+      ]
+    },
+    {
+      "modal_rank": 18,
+      "place_id": "a398e5d",
+      "rank_ci": [
+        18,
+        20
+      ]
+    },
+    {
+      "modal_rank": 60,
+      "place_id": "a3d18b2",
+      "rank_ci": [
+        23,
+        81
+      ]
+    },
+    {
+      "modal_rank": 10,
+      "place_id": "a4218ee",
+      "rank_ci": [
+        10,
+        10
+      ]
+    },
+    {
+      "modal_rank": 77,
+      "place_id": "a43f60f",
+      "rank_ci": [
+        76,
+        78
+      ]
+    },
+    {
+      "modal_rank": 102,
+      "place_id": "a4488e9",
+      "rank_ci": [
+        102,
+        102
+      ]
+    },
+    {
+      "modal_rank": 75,
+      "place_id": "a4492a0",
+      "rank_ci": [
+        74,
+        76
+      ]
+    },
+    {
+      "modal_rank": 56,
+      "place_id": "a47c817",
+      "rank_ci": [
+        56,
+        58
+      ]
+    },
+    {
+      "modal_rank": 89,
+      "place_id": "a49e1d0",
+      "rank_ci": [
+        87,
+        89
+      ]
+    },
+    {
+      "modal_rank": 90,
+      "place_id": "a4bdea7",
+      "rank_ci": [
+        90,
+        90
+      ]
+    },
+    {
+      "modal_rank": 64,
+      "place_id": "a4c2c75",
+      "rank_ci": [
+        63,
+        65
+      ]
+    },
+    {
+      "modal_rank": 23,
+      "place_id": "a55027d",
+      "rank_ci": [
+        23,
+        25
+      ]
+    },
+    {
+      "modal_rank": 14,
+      "place_id": "a55aded",
+      "rank_ci": [
+        14,
+        14
+      ]
+    },
+    {
+      "modal_rank": 63,
+      "place_id": "a56788c",
+      "rank_ci": [
+        62,
+        64
+      ]
+    },
+    {
+      "modal_rank": 101,
+      "place_id": "a57835d",
+      "rank_ci": [
+        101,
+        101
+      ]
+    },
+    {
+      "modal_rank": 36,
+      "place_id": "a581f0c",
+      "rank_ci": [
+        36,
+        37
+      ]
+    },
+    {
+      "modal_rank": 33,
+      "place_id": "a58735e",
+      "rank_ci": [
+        31,
+        35
+      ]
+    },
+    {
+      "modal_rank": 68,
+      "place_id": "a5c0cb0",
+      "rank_ci": [
+        67,
+        69
+      ]
+    },
+    {
+      "modal_rank": 57,
+      "place_id": "a5c37fd",
+      "rank_ci": [
+        57,
+        59
+      ]
+    },
+    {
+      "modal_rank": 31,
+      "place_id": "a5feb15",
+      "rank_ci": [
+        31,
+        33
+      ]
+    },
+    {
+      "modal_rank": 93,
+      "place_id": "a62fe31",
+      "rank_ci": [
+        93,
+        93
+      ]
+    },
+    {
+      "modal_rank": 98,
+      "place_id": "a63bb26",
+      "rank_ci": [
+        98,
+        98
+      ]
+    },
+    {
+      "modal_rank": 19,
+      "place_id": "a666ea0",
+      "rank_ci": [
+        18,
+        19
+      ]
+    },
+    {
+      "modal_rank": 79,
+      "place_id": "a68750d",
+      "rank_ci": [
+        78,
+        80
+      ]
+    },
+    {
+      "modal_rank": 50,
+      "place_id": "a69c1d4",
+      "rank_ci": [
+        50,
+        51
+      ]
+    },
+    {
+      "modal_rank": 94,
+      "place_id": "a69e1b8",
+      "rank_ci": [
+        94,
+        94
+      ]
+    },
+    {
+      "modal_rank": 86,
+      "place_id": "a6a7150",
+      "rank_ci": [
+        86,
+        86
+      ]
+    },
+    {
+      "modal_rank": 15,
+      "place_id": "a6c704a",
+      "rank_ci": [
+        15,
+        15
+      ]
+    },
+    {
+      "modal_rank": 32,
+      "place_id": "a6d306d",
+      "rank_ci": [
+        31,
+        33
+      ]
+    },
+    {
+      "modal_rank": 78,
+      "place_id": "a6d9af3",
+      "rank_ci": [
+        77,
+        79
+      ]
+    },
+    {
+      "modal_rank": 82,
+      "place_id": "a6f437a",
+      "rank_ci": [
+        81,
+        82
+      ]
+    },
+    {
+      "modal_rank": 34,
+      "place_id": "a6f61d3",
+      "rank_ci": [
+        33,
+        35
+      ]
+    },
+    {
+      "modal_rank": 105,
+      "place_id": "a7184a7",
+      "rank_ci": [
+        105,
+        105
+      ]
+    },
+    {
+      "modal_rank": 42,
+      "place_id": "a7b2e63",
+      "rank_ci": [
+        42,
+        43
+      ]
+    },
+    {
+      "modal_rank": 76,
+      "place_id": "a815d89",
+      "rank_ci": [
+        75,
+        77
+      ]
+    },
+    {
+      "modal_rank": 87,
+      "place_id": "a81cdb5",
+      "rank_ci": [
+        87,
+        88
+      ]
+    },
+    {
+      "modal_rank": 85,
+      "place_id": "a83a43e",
+      "rank_ci": [
+        85,
+        85
+      ]
+    },
+    {
+      "modal_rank": 35,
+      "place_id": "a83fd43",
+      "rank_ci": [
+        35,
+        36
+      ]
+    },
+    {
+      "modal_rank": 51,
+      "place_id": "a890adf",
+      "rank_ci": [
+        51,
+        52
+      ]
+    },
+    {
+      "modal_rank": 73,
+      "place_id": "a91c509",
+      "rank_ci": [
+        72,
+        74
+      ]
+    },
+    {
+      "modal_rank": 49,
+      "place_id": "a94b661",
+      "rank_ci": [
+        48,
+        50
+      ]
+    },
+    {
+      "modal_rank": 26,
+      "place_id": "a98e4d7",
+      "rank_ci": [
+        26,
+        28
+      ]
+    },
+    {
+      "modal_rank": 41,
+      "place_id": "a9cf1e8",
+      "rank_ci": [
+        41,
+        42
+      ]
+    },
+    {
+      "modal_rank": 70,
+      "place_id": "a9ee958",
+      "rank_ci": [
+        69,
+        71
+      ]
+    },
+    {
+      "modal_rank": 81,
+      "place_id": "aa31dd3",
+      "rank_ci": [
+        80,
+        81
+      ]
+    },
+    {
+      "modal_rank": 12,
+      "place_id": "aa401a9",
+      "rank_ci": [
+        12,
+        12
+      ]
+    },
+    {
+      "modal_rank": 2,
+      "place_id": "aa4b3e2",
+      "rank_ci": [
+        2,
+        2
+      ]
+    },
+    {
+      "modal_rank": 48,
+      "place_id": "aa8edd2",
+      "rank_ci": [
+        48,
+        50
+      ]
+    },
+    {
+      "modal_rank": 8,
+      "place_id": "aa95188",
+      "rank_ci": [
+        8,
+        8
+      ]
+    },
+    {
+      "modal_rank": 64,
+      "place_id": "aae626a",
+      "rank_ci": [
+        63,
+        66
+      ]
+    },
+    {
+      "modal_rank": 91,
+      "place_id": "ab20df9",
+      "rank_ci": [
+        91,
+        91
+      ]
+    },
+    {
+      "modal_rank": 107,
+      "place_id": "ab45bd3",
+      "rank_ci": [
+        107,
+        107
+      ]
+    },
+    {
+      "modal_rank": 17,
+      "place_id": "ab793ce",
+      "rank_ci": [
+        17,
+        17
+      ]
+    },
+    {
+      "modal_rank": 27,
+      "place_id": "ab8ae56",
+      "rank_ci": [
+        24,
+        27
+      ]
+    },
+    {
+      "modal_rank": 29,
+      "place_id": "abc2af0",
+      "rank_ci": [
+        29,
+        30
+      ]
+    },
+    {
+      "modal_rank": 80,
+      "place_id": "abfba2a",
+      "rank_ci": [
+        54,
+        82
+      ]
+    },
+    {
+      "modal_rank": 88,
+      "place_id": "ac12af9",
+      "rank_ci": [
+        88,
+        89
+      ]
+    },
+    {
+      "modal_rank": 59,
+      "place_id": "ac2c4c5",
+      "rank_ci": [
+        59,
+        61
+      ]
+    },
+    {
+      "modal_rank": 4,
+      "place_id": "ac744c1",
+      "rank_ci": [
+        4,
+        4
+      ]
+    },
+    {
+      "modal_rank": 71,
+      "place_id": "aca2b0a",
+      "rank_ci": [
+        70,
+        72
+      ]
+    },
+    {
+      "modal_rank": 83,
+      "place_id": "acc6d8e",
+      "rank_ci": [
+        83,
+        83
+      ]
+    },
+    {
+      "modal_rank": 38,
+      "place_id": "acf6ec0",
+      "rank_ci": [
+        38,
+        39
+      ]
+    },
+    {
+      "modal_rank": 97,
+      "place_id": "ad36371",
+      "rank_ci": [
+        97,
+        97
+      ]
+    },
+    {
+      "modal_rank": 20,
+      "place_id": "ad63819",
+      "rank_ci": [
+        19,
+        20
+      ]
+    },
+    {
+      "modal_rank": 95,
+      "place_id": "adc77fb",
+      "rank_ci": [
+        95,
+        95
+      ]
+    },
+    {
+      "modal_rank": 5,
+      "place_id": "ade301b",
+      "rank_ci": [
+        5,
+        5
+      ]
+    },
+    {
+      "modal_rank": 47,
+      "place_id": "adf74d4",
+      "rank_ci": [
+        47,
+        48
+      ]
+    },
+    {
+      "modal_rank": 39,
+      "place_id": "ae023a9",
+      "rank_ci": [
+        39,
+        41
+      ]
+    },
+    {
+      "modal_rank": 40,
+      "place_id": "ae41ab4",
+      "rank_ci": [
+        39,
+        41
+      ]
+    },
+    {
+      "modal_rank": 13,
+      "place_id": "ae425aa",
+      "rank_ci": [
+        13,
+        13
+      ]
+    },
+    {
+      "modal_rank": 30,
+      "place_id": "aee7248",
+      "rank_ci": [
+        30,
+        31
+      ]
+    },
+    {
+      "modal_rank": 84,
+      "place_id": "aef4242",
+      "rank_ci": [
+        84,
+        84
+      ]
+    },
+    {
+      "modal_rank": 11,
+      "place_id": "af0719d",
+      "rank_ci": [
+        11,
+        11
+      ]
+    },
+    {
+      "modal_rank": 52,
+      "place_id": "af23dbb",
+      "rank_ci": [
+        52,
+        53
+      ]
+    },
+    {
+      "modal_rank": 61,
+      "place_id": "af301ca",
+      "rank_ci": [
+        60,
+        62
+      ]
+    },
+    {
+      "modal_rank": 37,
+      "place_id": "af5884f",
+      "rank_ci": [
+        37,
+        38
+      ]
+    },
+    {
+      "modal_rank": 9,
+      "place_id": "afa863b",
+      "rank_ci": [
+        9,
+        9
+      ]
+    },
+    {
+      "modal_rank": 92,
+      "place_id": "afa9d8e",
+      "rank_ci": [
+        92,
+        92
+      ]
+    },
+    {
+      "modal_rank": 106,
+      "place_id": "afc8e7a",
+      "rank_ci": [
+        106,
+        106
+      ]
+    },
+    {
+      "modal_rank": 104,
+      "place_id": "afef438",
+      "rank_ci": [
+        104,
+        104
+      ]
+    },
+    {
+      "modal_rank": 6,
+      "place_id": "aff04b8",
+      "rank_ci": [
+        6,
+        6
+      ]
+    }
+  ],
+  "seed": 42
+}

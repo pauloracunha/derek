@@ -1,0 +1,743 @@
+{
+  "graph_stats": {
+    "density": 0.001267457834520543,
+    "edges": 38759,
+    "nodes": 7821
+  },
+  "results": [
+    {
+      "ap": 0.8048272926890493,
+      "auc": 0.8071112796864026,
+      "model": "common_neighbors",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 1.0,
+        "50": 1.0,
+        "500": 1.0
+      }
+    },
+    {
+      "ap": 0.8036330869605102,
+      "auc": 0.8064686851905115,
+      "model": "jaccard",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 0.99,
+        "50": 0.98,
+        "500": 0.988
+      }
+    },
+    {
+      "ap": 0.8082398501745042,
+      "auc": 0.8076678889273501,
+      "model": "adamic_adar",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 1.0,
+        "50": 1.0,
+        "500": 1.0
+      }
+    },
+    {
+      "ap": 0.8086535754245527,
+      "auc": 0.8178130352353078,
+      "model": "preferential_attachment",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 0.98,
+        "50": 0.96,
+        "500": 0.95
+      }
+    },
+    {
+      "ap": 0.8801039192312478,
+      "auc": 0.8678483248486105,
+      "model": "node2vec_lr",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 0.99,
+        "50": 1.0,
+        "500": 0.988
+      }
+    },
+    {
+      "ap": 0.870642968752938,
+      "auc": 0.853165603792628,
+      "model": "node2vec_gbm",
+      "negative_sampling": "random",
+      "precision_at_k": {
+        "100": 0.99,
+        "50": 1.0,
+        "500": 0.992
+      }
+    },
+    {
+      "ap": 0.7989626976572427,
+      "auc": 0.8029103884541302,
+      "model": "common_neighbors",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 1.0,
+        "50": 1.0,
+        "500": 0.998
+      }
+    },
+    {
+      "ap": 0.7964414317579487,
+      "auc": 0.802353680410529,
+      "model": "jaccard",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 0.93,
+        "50": 0.9,
+        "500": 0.98
+      }
+    },
+    {
+      "ap": 0.8048150661301136,
+      "auc": 0.8039669301410087,
+      "model": "adamic_adar",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 1.0,
+        "50": 1.0,
+        "500": 0.998
+      }
+    },
+    {
+      "ap": 0.7525221312093353,
+      "auc": 0.7704482645861773,
+      "model": "preferential_attachment",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 0.95,
+        "50": 0.92,
+        "500": 0.896
+      }
+    },
+    {
+      "ap": 0.8580881903723263,
+      "auc": 0.846487945600193,
+      "model": "node2vec_lr",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 0.99,
+        "50": 1.0,
+        "500": 0.98
+      }
+    },
+    {
+      "ap": 0.8367633137388729,
+      "auc": 0.824708427530436,
+      "model": "node2vec_gbm",
+      "negative_sampling": "distance_matched",
+      "precision_at_k": {
+        "100": 0.96,
+        "50": 0.94,
+        "500": 0.972
+      }
+    }
+  ],
+  "top_candidates": [
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9999990763618811,
+      "to": "Acts.7.13"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9999907535836189,
+      "to": "Acts.7.8-Acts.7.9"
+    },
+    {
+      "from": "Acts.11.30",
+      "in_catalog": false,
+      "score": 0.9999739207379706,
+      "to": "3John.1.1"
+    },
+    {
+      "from": "Acts.9.9",
+      "in_catalog": false,
+      "score": 0.9999699653080513,
+      "to": "Acts.9.11"
+    },
+    {
+      "from": "Acts.7.22",
+      "in_catalog": false,
+      "score": 0.9999648291803116,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.27.26-Acts.27.29",
+      "in_catalog": false,
+      "score": 0.9999588346742013,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9999484547669931,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.999938650062197,
+      "to": "Acts.7.19"
+    },
+    {
+      "from": "Acts.8.17",
+      "in_catalog": false,
+      "score": 0.9999136349302259,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9999124867744752,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.10.25",
+      "in_catalog": false,
+      "score": 0.9998670548760391,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.15.6",
+      "in_catalog": false,
+      "score": 0.9998494053111042,
+      "to": "3John.1.1"
+    },
+    {
+      "from": "Acts.25.19-Acts.25.20",
+      "in_catalog": false,
+      "score": 0.9998326666979463,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.7.22",
+      "in_catalog": false,
+      "score": 0.9998302394925364,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9998111655972884,
+      "to": "2Tim.3.1"
+    },
+    {
+      "from": "Acts.19.4-Acts.19.5",
+      "in_catalog": false,
+      "score": 0.9998041498781431,
+      "to": "Isa.44.3-Isa.44.4"
+    },
+    {
+      "from": "Acts.7.38",
+      "in_catalog": false,
+      "score": 0.9997963837309958,
+      "to": "Acts.7.34"
+    },
+    {
+      "from": "Acts.1.5",
+      "in_catalog": false,
+      "score": 0.9997641499160573,
+      "to": "Isa.44.3-Isa.44.4"
+    },
+    {
+      "from": "Acts.22.2-Acts.22.3",
+      "in_catalog": false,
+      "score": 0.9997499291309507,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.999676696835206,
+      "to": "Gen.15.13"
+    },
+    {
+      "from": "Acts.20.13-Acts.20.15",
+      "in_catalog": false,
+      "score": 0.9996705266844845,
+      "to": "Acts.16.11"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9996665896769695,
+      "to": "Deut.11.9"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.999643987465284,
+      "to": "1Chr.17.11"
+    },
+    {
+      "from": "Acts.26.3",
+      "in_catalog": false,
+      "score": 0.999642303718802,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.5.26",
+      "in_catalog": false,
+      "score": 0.9995987454899024,
+      "to": "1Chr.24.5"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9995722595957588,
+      "to": "Gen.49.1"
+    },
+    {
+      "from": "Acts.5.15-Acts.5.16",
+      "in_catalog": false,
+      "score": 0.9995675047527626,
+      "to": "Matt.8.16"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9995143544048344,
+      "to": "Luke.12.55"
+    },
+    {
+      "from": "Acts.19.12",
+      "in_catalog": false,
+      "score": 0.9994642885157607,
+      "to": "Matt.8.16"
+    },
+    {
+      "from": "Acts.10.9-Acts.10.10",
+      "in_catalog": false,
+      "score": 0.999440143720014,
+      "to": "Acts.9.26-Acts.9.28"
+    },
+    {
+      "from": "Acts.14.13",
+      "in_catalog": false,
+      "score": 0.9994196662232742,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9994043394480143,
+      "to": "Acts.7.34"
+    },
+    {
+      "from": "Acts.15.30",
+      "in_catalog": false,
+      "score": 0.9993322931625066,
+      "to": "Acts.21.16"
+    },
+    {
+      "from": "Acts.7.38",
+      "in_catalog": false,
+      "score": 0.9992894499967795,
+      "to": "1Kgs.19.8"
+    },
+    {
+      "from": "Acts.7.38",
+      "in_catalog": false,
+      "score": 0.9991355070186888,
+      "to": "Acts.7.13"
+    },
+    {
+      "from": "Acts.16.17-Acts.16.18",
+      "in_catalog": false,
+      "score": 0.999105988870232,
+      "to": "Mark.5.9-Mark.5.13"
+    },
+    {
+      "from": "Acts.1.5",
+      "in_catalog": false,
+      "score": 0.9990868276191616,
+      "to": "Isa.44.3"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9990474544328471,
+      "to": "Jer.10.3-Jer.10.5"
+    },
+    {
+      "from": "Acts.19.12",
+      "in_catalog": false,
+      "score": 0.9990407154004541,
+      "to": "1Cor.12.9"
+    },
+    {
+      "from": "Acts.16.12",
+      "in_catalog": false,
+      "score": 0.9990115593531941,
+      "to": "Exod.13.6-Exod.13.7"
+    },
+    {
+      "from": "Acts.3.21",
+      "in_catalog": false,
+      "score": 0.9989612589111722,
+      "to": "Isa.53.1-Isa.53.12"
+    },
+    {
+      "from": "Acts.28.9",
+      "in_catalog": false,
+      "score": 0.9989590267878917,
+      "to": "1Cor.12.9"
+    },
+    {
+      "from": "Acts.28.9",
+      "in_catalog": false,
+      "score": 0.9989184657469005,
+      "to": "Acts.5.16"
+    },
+    {
+      "from": "Acts.15.27",
+      "in_catalog": false,
+      "score": 0.99888642628039,
+      "to": "Acts.16.1-Acts.16.3"
+    },
+    {
+      "from": "Acts.22.30",
+      "in_catalog": false,
+      "score": 0.9987500518359977,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.25.7-Acts.25.8",
+      "in_catalog": false,
+      "score": 0.9986956713465884,
+      "to": "Acts.23.6-Acts.23.9"
+    },
+    {
+      "from": "Acts.4.28",
+      "in_catalog": false,
+      "score": 0.998681136051077,
+      "to": "Rev.17.12-Rev.17.14"
+    },
+    {
+      "from": "Acts.16.17-Acts.16.18",
+      "in_catalog": false,
+      "score": 0.9986622062255633,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.15.30",
+      "in_catalog": false,
+      "score": 0.9986068123884828,
+      "to": "Acts.21.17-Acts.21.19"
+    },
+    {
+      "from": "Acts.28.1",
+      "in_catalog": false,
+      "score": 0.998533408236011,
+      "to": "Luke.1.34-Luke.1.35"
+    },
+    {
+      "from": "Acts.17.14",
+      "in_catalog": false,
+      "score": 0.9984941917845421,
+      "to": "Acts.8.19"
+    },
+    {
+      "from": "Acts.5.15-Acts.5.16",
+      "in_catalog": false,
+      "score": 0.998386286656351,
+      "to": "Acts.5.16"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9983443090019206,
+      "to": "Luke.1.69-Luke.1.70"
+    },
+    {
+      "from": "Acts.22.2",
+      "in_catalog": false,
+      "score": 0.9983071473237324,
+      "to": "Acts.12.17"
+    },
+    {
+      "from": "Acts.7.22",
+      "in_catalog": false,
+      "score": 0.9982685020599036,
+      "to": "Judg.10.6"
+    },
+    {
+      "from": "Acts.15.30",
+      "in_catalog": false,
+      "score": 0.9982663899523566,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.10.25",
+      "in_catalog": false,
+      "score": 0.9982295531081274,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.12.3",
+      "in_catalog": false,
+      "score": 0.998190811246244,
+      "to": "Exod.13.6-Exod.13.7"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9981854734156556,
+      "to": "Acts.20.26"
+    },
+    {
+      "from": "Acts.19.12",
+      "in_catalog": false,
+      "score": 0.998161882819316,
+      "to": "Acts.5.16"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9981573326631484,
+      "to": "1Chr.24.5"
+    },
+    {
+      "from": "Acts.17.14",
+      "in_catalog": false,
+      "score": 0.9980466614082658,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.25.27",
+      "in_catalog": false,
+      "score": 0.9979404732503725,
+      "to": "Acts.20.26"
+    },
+    {
+      "from": "Acts.10.18",
+      "in_catalog": false,
+      "score": 0.9979019871835965,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.1.5",
+      "in_catalog": false,
+      "score": 0.997858103319261,
+      "to": "Gal.3.14"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9978428629192483,
+      "to": "Heb.6.19"
+    },
+    {
+      "from": "Acts.2.46",
+      "in_catalog": false,
+      "score": 0.9978224283980279,
+      "to": "1Tim.4.3-1Tim.4.5"
+    },
+    {
+      "from": "Acts.2.24",
+      "in_catalog": false,
+      "score": 0.9978042341872346,
+      "to": "John.7.38-John.7.39"
+    },
+    {
+      "from": "Acts.20.1",
+      "in_catalog": false,
+      "score": 0.9976248641399905,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.5.26",
+      "in_catalog": false,
+      "score": 0.9975682165770823,
+      "to": "Acts.23.6-Acts.23.9"
+    },
+    {
+      "from": "Acts.27.26-Acts.27.29",
+      "in_catalog": false,
+      "score": 0.9975606760046118,
+      "to": "Acts.21.2"
+    },
+    {
+      "from": "Acts.2.36",
+      "in_catalog": false,
+      "score": 0.9975486258134808,
+      "to": "Phil.2.9-Phil.2.11"
+    },
+    {
+      "from": "Acts.16.17-Acts.16.18",
+      "in_catalog": false,
+      "score": 0.9975188923837673,
+      "to": "Acts.8.19"
+    },
+    {
+      "from": "Acts.9.9",
+      "in_catalog": false,
+      "score": 0.9974831829063976,
+      "to": "Phil.4.18"
+    },
+    {
+      "from": "Acts.22.30",
+      "in_catalog": false,
+      "score": 0.9974680236125533,
+      "to": "Acts.22.29"
+    },
+    {
+      "from": "Acts.25.27",
+      "in_catalog": false,
+      "score": 0.9972363610808189,
+      "to": "1Sam.14.41-1Sam.14.42"
+    },
+    {
+      "from": "Acts.7.22",
+      "in_catalog": false,
+      "score": 0.9972242263267511,
+      "to": "John.18.33-John.18.35"
+    },
+    {
+      "from": "Acts.20.1",
+      "in_catalog": false,
+      "score": 0.9972094460790275,
+      "to": "Acts.20.37-Acts.20.38"
+    },
+    {
+      "from": "Acts.15.27",
+      "in_catalog": false,
+      "score": 0.9972011123791251,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.1.5",
+      "in_catalog": false,
+      "score": 0.9970759371673039,
+      "to": "John.7.38-John.7.39"
+    },
+    {
+      "from": "Acts.13.45-Acts.13.47",
+      "in_catalog": false,
+      "score": 0.9968014656135008,
+      "to": "Acts.20.26"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9967798676802373,
+      "to": "Prov.14.30"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9967560390185702,
+      "to": "Acts.2.31"
+    },
+    {
+      "from": "Acts.24.11",
+      "in_catalog": false,
+      "score": 0.9966095975788457,
+      "to": "Gen.37.36"
+    },
+    {
+      "from": "Acts.16.12",
+      "in_catalog": false,
+      "score": 0.9965879835820377,
+      "to": "Acts.16.11"
+    },
+    {
+      "from": "Acts.7.22",
+      "in_catalog": false,
+      "score": 0.996542755907404,
+      "to": "Acts.7.13"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.996522048087951,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.27.27",
+      "in_catalog": false,
+      "score": 0.9965154695227445,
+      "to": "Deut.15.23"
+    },
+    {
+      "from": "Acts.11.30",
+      "in_catalog": false,
+      "score": 0.9964836493599526,
+      "to": "Acts.8.19"
+    },
+    {
+      "from": "Acts.7.32",
+      "in_catalog": false,
+      "score": 0.9964678120331488,
+      "to": "Acts.7.34"
+    },
+    {
+      "from": "Acts.3.21",
+      "in_catalog": false,
+      "score": 0.9964466665519093,
+      "to": "1Pet.1.11"
+    },
+    {
+      "from": "Acts.25.27",
+      "in_catalog": false,
+      "score": 0.9962554793787415,
+      "to": "Mark.6.48"
+    },
+    {
+      "from": "Acts.9.9",
+      "in_catalog": false,
+      "score": 0.9962390139959956,
+      "to": "Acts.20.26"
+    },
+    {
+      "from": "Acts.25.27",
+      "in_catalog": false,
+      "score": 0.9962081694343673,
+      "to": "Acts.7.43"
+    },
+    {
+      "from": "Acts.16.17-Acts.16.18",
+      "in_catalog": false,
+      "score": 0.9960943370039743,
+      "to": "Exod.13.6-Exod.13.7"
+    },
+    {
+      "from": "Acts.24.1",
+      "in_catalog": false,
+      "score": 0.9960871564094482,
+      "to": "Gen.43.2"
+    },
+    {
+      "from": "Acts.7.16",
+      "in_catalog": false,
+      "score": 0.9958935257257779,
+      "to": "John.18.33-John.18.35"
+    },
+    {
+      "from": "Acts.13.46-Acts.13.47",
+      "in_catalog": false,
+      "score": 0.9958329330628366,
+      "to": "Luke.2.31-Luke.2.32"
+    },
+    {
+      "from": "Acts.16.2",
+      "in_catalog": false,
+      "score": 0.995826424755986,
+      "to": "Acts.16.1-Acts.16.3"
+    },
+    {
+      "from": "Acts.24.11",
+      "in_catalog": false,
+      "score": 0.9958178264974449,
+      "to": "Acts.21.16"
+    }
+  ]
+}
