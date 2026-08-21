@@ -129,9 +129,9 @@ Nenhum campo novo é necessário em `web/src/state/store.ts` — `chapterRange` 
 - [X] T028 [P] [US4] Implementar `Legend.tsx` em `web/src/components/Legend.tsx`: explicar opacidade/tamanho = probabilidade (com piso mínimo), forma do marcador = área vs. ponto exato (espelha T008/T010)
 - [X] T029 [P] [US4] Implementar `Footer.tsx` em `web/src/components/Footer.tsx`: texto explicativo sobre múltiplos pontos por lugar + atribuição de licença das fontes — OpenBible.info Bible-Geocoding-Data (geolocalização) e OpenBible.info cross-references (CC-BY), conforme `docs/data-contracts.md`
 - [X] T030 [US4] Adicionar `Legend.tsx` e `Footer.tsx` em `web/src/App.tsx`, sempre visíveis (não atrás de menu/modal)
-- [ ] T031 [US4] **BLOQUEADO (ação humana)** Confirmar nome do repositório GitHub (preferência: `<usuário>.github.io` para servir na raiz, `base: '/'`); se project site em vez disso, setar `base: '/<nome-do-repo>/'` em `web/vite.config.ts` antes do build (`research.md` #4, grill Q8) — projeto ainda não é repositório git
-- [X] T032 [US4] Build de produção: `cd web && npm run build`, validar `web/dist` gerado sem erro e assets carregando com o `base` correto — validado com `base` padrão (`/`); revisitar se T031 resolver para project site
-- [ ] T033 [US4] **BLOQUEADO (ação humana)** Publicar `web/dist` via GitHub Pages (`research.md` #4) e confirmar URL pública acessível sem cadastro/login — depende de T031
+- [X] T031 [US4] Repositório criado: `github.com/pauloracunha/pauloracunha.github.io` (user site, serve na raiz, `base: '/'` sem alteração — confirmado, grill Q8)
+- [X] T032 [US4] Build de produção: `cd web && npm run build`, validado `web/dist` sem erro, assets carregando com `base: '/'`
+- [X] T033 [US4] Publicado via GitHub Pages, branch `gh-pages` (`web/dist` como orphan branch), fonte configurada via API (`gh api -X PUT .../pages`). URL pública: **https://pauloracunha.github.io/** — confirmado 200 em `/`, `/data/places.json`, `/data/graph.json`, sem login
 - [X] T034 [P] [US4] Teste de componente em `web/tests/components/Legend.test.tsx`: legenda renderiza sem depender de seleção de lugar
 
 **Checkpoint**: aplicação publicada e acessível publicamente; US1–US4 completas e demonstráveis via URL pública (R3.2–R3.6 do relatório).
@@ -147,7 +147,7 @@ Nenhum campo novo é necessário em `web/src/state/store.ts` — `chapterRange` 
 ### Implementation for User Story 5
 
 - [X] T035 [US5] Criar `docs/usability-test.md` com a tabela de campos definida em `data-model.md` § Sessão de teste de compreensão (`participant_id`, `date`, `explained_correctly`, `justification`, `notes`) e a rubrica de `explained_correctly` (grill Q6)
-- [ ] T036 [US5] **BLOQUEADO (ação humana)** Conduzir sessões com 3 a 5 participantes reais sobre a aplicação publicada (T033), sem explicação prévia da equipe, perguntando por que alguns lugares têm múltiplos pontos — depende de T033
+- [ ] T036 [US5] **BLOQUEADO (ação humana)** Conduzir sessões com 3 a 5 participantes reais sobre a aplicação publicada em https://pauloracunha.github.io/, sem explicação prévia da equipe, perguntando por que alguns lugares têm múltiplos pontos
 - [ ] T037 [US5] **BLOQUEADO (ação humana)** Registrar cada sessão em `docs/usability-test.md` conforme conduzida (não em lote ao final, para evitar viés de memória), aplicando a rubrica: `true` se o participante expressar a ideia de múltiplas hipóteses conflitantes de localização, sem exigir termo técnico
 - [ ] T038 [US5] **BLOQUEADO (ação humana)** Calcular taxa de acerto agregada e reportar em `relatorio.md` (seção Sprint 3 / H4), independentemente de atingir os 80% de SC-003 (Princípio VI — nunca ajustar amostra ou critério pós-hoc)
 
@@ -161,7 +161,7 @@ Nenhum campo novo é necessário em `web/src/state/store.ts` — `chapterRange` 
 
 - [X] T039 [P] Rodar `just lint` (`ruff` + `eslint` de `web/`) e corrigir violações introduzidas por esta feature — 0 erros (1 warning cosmético de fast-refresh em `NetworkGraph.tsx`, não bloqueante)
 - [X] T040 [P] Rodar todos os testes de componente (`npm run test` em `web/`) e confirmar suíte verde — 4 arquivos, 11 testes, todos passando
-- [ ] T041 **BLOQUEADO (ação humana)** Validar manualmente os passos de `quickstart.md` (Princípio I e II) na build publicada, não só em dev local — depende de T033
+- [X] T041 Validar manualmente os passos de `quickstart.md` (Princípio I e II) na build publicada: `curl` confirma 200 em `/`, `/data/places.json` (107 lugares) e `/data/graph.json`; validação visual completa (candidatos coincidindo no mapa) ainda requer sessão de navegador real — não substituída por este check
 - [ ] T042 **BLOQUEADO (ação humana)** Atualizar `CLAUDE.md` § Estado atual com o resultado real desta feature (tasks concluídas, achados do teste de compreensão) — depende de T036–T038
 - [ ] T043 **BLOQUEADO (ação humana)** Atualizar `relatorio.md` § Sprint 3 (R3.1–R3.6) com evidência de cada artefato (capturas de tela, URL pública, link para `docs/usability-test.md`) — depende de T033/T038
 

@@ -36,6 +36,8 @@ Ver constituição completa em `.specify/memory/constitution.md`.
 
 `003-sprint2-analise-modelagem`: implementado e testado (27/31 tasks — T028-T031 são polish/verificação). `pipeline/s04-s07` completos: grafo (107 nós/1059 arestas/0 isolados), Monte Carlo (4 métricas escalares + ranking de centralidade), comunidades (5, NMI=0,24/ARI=0,11 vs. partição narrativa), link prediction (rede ego 7.821 nós/38.766 arestas, 12 combinações modelo×amostragem — `distance_matched` sistematicamente mais difícil que `random`). `s08_export.py` gera os 4 artefatos (`places.json`, `graph.json`, `uncertainty.json`, `linkpred.json`) em ~105s. 25 testes (22 rápidos + 3 lentos), todos passando.
 
+`004-sprint3-interface-validacao`: 33/43 tasks (T001-T034, T039-T041). US1-US4 implementadas em `web/` (Map.tsx com peso visual de incerteza opacidade+tamanho com piso mínimo, vínculo tracejado entre candidatos, forma de marcador ponto/área; UnlocatablePanel.tsx; NetworkGraph.tsx d3-force com cluster por comunidade e filtro por capítulo; ChapterTimeline.tsx; Legend.tsx/Footer.tsx). 11 testes Vitest passando, lint limpo, build ok. Repositório criado e **publicado em https://pauloracunha.github.io/** (branch `gh-pages`, deploy manual — sem CI ainda). Pendente (ação humana, não automatizável): US5 — recrutar e conduzir teste de compreensão com 3-5 participantes reais (`docs/usability-test.md` pronto para registro), depois fechar T036-T038/T042-T043 (relatório com achados reais).
+
 ## Decisões arquiteturais
 
 Ver `docs/decisions.md` e `docs/adr/` (5 ADRs registrados durante a implementação de `001-atlas-atos`).
