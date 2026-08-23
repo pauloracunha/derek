@@ -41,20 +41,20 @@ function App() {
           <PlaceDetail />
           <UnlocatablePanel />
           <Legend />
+
+          <section className="timeline-area" aria-label="Linha do tempo de capítulos">
+            <ChapterTimeline />
+          </section>
+
+          <section className="graph-area" aria-label="Grafo de rede">
+            <NetworkGraph />
+          </section>
+
+          <footer className="app-footer">
+            <Footer />
+          </footer>
         </aside>
-
-        <section className="timeline-area" aria-label="Linha do tempo de capítulos">
-          <ChapterTimeline />
-        </section>
-
-        <section className="graph-area" aria-label="Grafo de rede">
-          <NetworkGraph />
-        </section>
       </main>
-
-      <footer className="app-footer">
-        <Footer />
-      </footer>
     </div>
   )
 }

@@ -28,37 +28,30 @@
 
 .app-main {
   display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-template-rows: 1fr minmax(0, 160px);
-  grid-template-areas:
-    'map    side'
-    'timeline graph';
+  grid-template-columns: 1fr minmax(320px, 420px);
   min-height: 0;
 }
 
 .map-area {
-  grid-area: map;
+  min-height: 0;
 }
 
 .side-panel {
-  grid-area: side;
+  display: flex;
+  flex-direction: column;
   border-left: 1px solid #ddd;
   overflow-y: auto;
+  min-height: 0;
 }
 
 .timeline-area {
-  grid-area: timeline;
   border-top: 1px solid #ddd;
-  min-height: 0;
-  overflow-y: auto;
 }
 
 .graph-area {
-  grid-area: graph;
   border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
-  min-height: 0;
-  overflow: hidden;
+  height: 280px;
+  flex-shrink: 0;
 }
 
 .placeholder {
