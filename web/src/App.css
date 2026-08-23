@@ -29,7 +29,7 @@
 .app-main {
   display: grid;
   grid-template-columns: 2fr 1fr;
-  grid-template-rows: 1fr minmax(0, 200px);
+  grid-template-rows: 1fr minmax(0, 160px);
   grid-template-areas:
     'map    side'
     'timeline graph';
