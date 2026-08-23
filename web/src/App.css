@@ -42,6 +42,30 @@
   border-left: 1px solid #ddd;
   overflow-y: auto;
   min-height: 0;
+  text-align: left;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.side-panel > * {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.side-panel h2,
+.side-panel h3 {
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+  letter-spacing: normal;
+}
+
+.side-panel ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.side-panel li {
+  margin-bottom: 0.35rem;
 }
 
 .timeline-area {
@@ -95,4 +119,19 @@
 .candidate-marker--area {
   border-radius: 3px;
   transform: rotate(45deg);
+}
+
+.legend__swatch {
+  display: inline-block;
+  width: 0.8rem;
+  height: 0.8rem;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+.legend li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
 }
