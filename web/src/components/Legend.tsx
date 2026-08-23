@@ -14,10 +14,6 @@ export default function Legend() {
           Losango = candidato de localização de área aproximada (assentamento/região)
         </li>
         <li>Opacidade e tamanho do marcador são proporcionais à probabilidade relativa de cada candidato — nunca mostramos só o candidato mais provável.</li>
-        <li>
-          <span className="legend__swatch candidate-marker-halo legend__halo" />
-          Anel tracejado ao redor do marcador = precisão posicional (precision_meters) — quanto maior o anel, menos preciso o candidato; sem anel = precisão desconhecida.
-        </li>
         <li>Linha tracejada conecta candidatos concorrentes do mesmo lugar quando ele está selecionado.</li>
       </ul>
     </div>

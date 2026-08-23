@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import * as maplibregl from 'maplibre-gl'
 import type { LonLatType, Place } from '../services/dataLoader'
-import { haloRadiusForPrecision, opacityForProbability, radiusForProbability } from '../services/visualWeight'
+import { opacityForProbability, radiusForProbability } from '../services/visualWeight'
 import { placeInChapterRange, useAtlasStore } from '../state/store'
 
 // Bbox real de alcance de Atos (Jerusalém a Roma, incluindo Etiópia) — docs/adr/0005.
@@ -76,44 +76,25 @@ export default function Map() {
 
     for (const place of visiblePlaces) {
       for (const candidate of place.candidates) {
-        const wrapper = document.createElement('div')
-        wrapper.className = 'candidate-marker-wrap'
-        wrapper.dataset.placeId = place.place_id
-        const precisionLabel = candidate.precision_meters === null
-          ? 'precisão posicional desconhecida'
-          : `precisão posicional ±${candidate.precision_meters}m`
-        wrapper.title = `${place.name} — ${candidate.name} (prob. ${(candidate.probability * 100).toFixed(0)}%, ${precisionLabel})`
-        wrapper.addEventListener('click', (e) => {
-          e.stopPropagation()
-          selectPlace(place.place_id)
-        })
-
-        const haloRadius = haloRadiusForPrecision(candidate.precision_meters)
-        if (haloRadius !== null) {
-          const halo = document.createElement('div')
-          halo.className = 'candidate-marker-halo'
-          const haloSize = haloRadius * 2
-          halo.style.width = `${haloSize}px`
-          halo.style.height = `${haloSize}px`
-          wrapper.appendChild(halo)
-        }
-
         const el = document.createElement('div')
         el.className = isAreaType(candidate.lonlat_type) ? 'candidate-marker candidate-marker--area' : 'candidate-marker candidate-marker--point'
         const size = radiusForProbability(candidate.probability) * 2
         el.style.width = `${size}px`
         el.style.height = `${size}px`
         el.style.opacity = String(opacityForProbability(candidate.probability))
-        if (place.place_id === selectedPlaceId) el.classList.add('candidate-marker--selected')
-        wrapper.appendChild(el)
+        el.title = `${place.name} — ${candidate.name} (prob. ${(candidate.probability * 100).toFixed(0)}%)`
+        el.addEventListener('click', (e) => {
+          e.stopPropagation()
+          selectPlace(place.place_id)
+        })
 
-        const marker = new maplibregl.Marker({ element: wrapper })
+        const marker = new maplibregl.Marker({ element: el })
           .setLngLat([candidate.lon, candidate.lat])
           .addTo(map)
         markersRef.current.push(marker)
       }
     }
-  }, [places, chapterRange, selectPlace, selectedPlaceId])
+  }, [places, chapterRange, selectPlace])
 
   // Vínculo visual entre candidatos do mesmo lugar: linha tracejada + cor compartilhada,
   // só quando esse lugar está selecionado (CONTEXT.md § Vínculo Visual, grill Q2).

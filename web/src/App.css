@@ -95,31 +95,3 @@
   border-radius: 3px;
   transform: rotate(45deg);
 }
-
-.candidate-marker--selected {
-  border-width: 3px;
-}
-
-.candidate-marker-wrap {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-
-/* Raio de precisão posicional (precision_meters): escala log contínua — quanto maior o
-   anel, menos preciso o candidato. Sem anel = precision_meters desconhecido. */
-.candidate-marker-halo {
-  position: absolute;
-  border-radius: 50%;
-  border: 1px dashed rgba(122, 92, 255, 0.55);
-  background: rgba(122, 92, 255, 0.08);
-  pointer-events: none;
-}
-
-.legend__halo {
-  position: static;
-  width: 16px;
-  height: 16px;
-}
