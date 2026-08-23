@@ -79,13 +79,6 @@ export default function Map() {
         const wrapper = document.createElement('div')
         wrapper.className = 'candidate-marker-wrap'
         wrapper.dataset.placeId = place.place_id
-        // Tamanho fixo igual ao marcador (não ao halo): maplibre mede offsetWidth/Height
-        // deste elemento raiz para calcular o offset de centralização. Se o halo (maior)
-        // influenciasse essa medida, cada marcador desviaria do ponto real por um valor
-        // diferente — foi exatamente o bug de "pontos fora do lugar".
-        const size = radiusForProbability(candidate.probability) * 2
-        wrapper.style.width = `${size}px`
-        wrapper.style.height = `${size}px`
         const precisionLabel = candidate.precision_meters === null
           ? 'precisão posicional desconhecida'
           : `precisão posicional ±${candidate.precision_meters}m`
@@ -107,8 +100,9 @@ export default function Map() {
 
         const el = document.createElement('div')
         el.className = isAreaType(candidate.lonlat_type) ? 'candidate-marker candidate-marker--area' : 'candidate-marker candidate-marker--point'
-        el.style.width = '100%'
-        el.style.height = '100%'
+        const size = radiusForProbability(candidate.probability) * 2
+        el.style.width = `${size}px`
+        el.style.height = `${size}px`
         el.style.opacity = String(opacityForProbability(candidate.probability))
         if (place.place_id === selectedPlaceId) el.classList.add('candidate-marker--selected')
         wrapper.appendChild(el)

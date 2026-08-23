@@ -102,6 +102,9 @@
 
 .candidate-marker-wrap {
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
 }
 
@@ -109,9 +112,6 @@
    anel, menos preciso o candidato. Sem anel = precision_meters desconhecido. */
 .candidate-marker-halo {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   border-radius: 50%;
   border: 1px dashed rgba(122, 92, 255, 0.55);
   background: rgba(122, 92, 255, 0.08);
