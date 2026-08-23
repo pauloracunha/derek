@@ -29,7 +29,7 @@
 .app-main {
   display: grid;
   grid-template-columns: 2fr 1fr;
-  grid-template-rows: 1fr auto;
+  grid-template-rows: 70vh auto;
   grid-template-areas:
     'map    side'
     'timeline graph';
@@ -38,10 +38,14 @@
 
 .map-area {
   grid-area: map;
+  height: 70vh;
+  min-height: 0;
+  overflow: hidden;
 }
 
 .side-panel {
   grid-area: side;
+  height: 70vh;
   border-left: 1px solid #ddd;
   overflow-y: auto;
 }
