@@ -81,6 +81,10 @@
   cursor: pointer;
 }
 
+.candidate-marker--selected {
+  border-width: 3px;
+}
+
 .candidate-marker--point {
   border-radius: 50%;
 }

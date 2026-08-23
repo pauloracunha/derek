@@ -23,6 +23,7 @@ export default function Map() {
   const containerRef = useRef<HTMLDivElement>(null)
   const mapRef = useRef<maplibregl.Map | null>(null)
   const markersRef = useRef<maplibregl.Marker[]>([])
+  const markerElsRef = useRef<{ el: HTMLDivElement; placeId: string }[]>([])
   const linkSourceAddedRef = useRef(false)
 
   // Alguns navegadores/ambientes (GPU desabilitada por sandbox/política) não conseguem
@@ -69,6 +70,7 @@ export default function Map() {
 
     markersRef.current.forEach((m) => m.remove())
     markersRef.current = []
+    markerElsRef.current = []
 
     const visiblePlaces = places.filter(
       (p: Place) => p.is_locatable && placeInChapterRange(p, chapterRange),
@@ -92,9 +94,17 @@ export default function Map() {
           .setLngLat([candidate.lon, candidate.lat])
           .addTo(map)
         markersRef.current.push(marker)
+        markerElsRef.current.push({ el, placeId: place.place_id })
       }
     }
   }, [places, chapterRange, selectPlace])
+
+  // Borda mais grossa no candidato do lugar selecionado (feedback visual de clique).
+  useEffect(() => {
+    for (const { el, placeId } of markerElsRef.current) {
+      el.classList.toggle('candidate-marker--selected', placeId === selectedPlaceId)
+    }
+  }, [selectedPlaceId, places, chapterRange])
 
   // Vínculo visual entre candidatos do mesmo lugar: linha tracejada + cor compartilhada,
   // só quando esse lugar está selecionado (CONTEXT.md § Vínculo Visual, grill Q2).
