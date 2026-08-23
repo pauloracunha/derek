@@ -78,23 +78,31 @@ export default function Map() {
 
     for (const place of visiblePlaces) {
       for (const candidate of place.candidates) {
+        // maplibre aplica seu próprio `transform` (translate) no elemento do marcador
+        // para posicioná-lo, sobrescrevendo qualquer transform CSS (ex.: rotate do losango).
+        // Por isso a rotação/forma fica num filho interno, não no elemento raiz do Marker.
         const el = document.createElement('div')
-        el.className = isAreaType(candidate.lonlat_type) ? 'candidate-marker candidate-marker--area' : 'candidate-marker candidate-marker--point'
         const size = radiusForProbability(candidate.probability) * 2
         el.style.width = `${size}px`
         el.style.height = `${size}px`
-        el.style.opacity = String(opacityForProbability(candidate.probability))
         el.title = `${place.name} — ${candidate.name} (prob. ${(candidate.probability * 100).toFixed(0)}%)`
         el.addEventListener('click', (e) => {
           e.stopPropagation()
           selectPlace(place.place_id)
         })
 
+        const shape = document.createElement('div')
+        shape.className = isAreaType(candidate.lonlat_type) ? 'candidate-marker candidate-marker--area' : 'candidate-marker candidate-marker--point'
+        shape.style.width = '100%'
+        shape.style.height = '100%'
+        shape.style.opacity = String(opacityForProbability(candidate.probability))
+        el.appendChild(shape)
+
         const marker = new maplibregl.Marker({ element: el })
           .setLngLat([candidate.lon, candidate.lat])
           .addTo(map)
         markersRef.current.push(marker)
-        markerElsRef.current.push({ el, placeId: place.place_id })
+        markerElsRef.current.push({ el: shape, placeId: place.place_id })
       }
     }
   }, [places, chapterRange, selectPlace])
