@@ -88,9 +88,9 @@ async function fetchJson<T>(path: string): Promise<T> {
 }
 
 export function loadPlaces(): Promise<Place[]> {
-  return fetchJson<Place[]>('/data/places.json')
+  return fetchJson<Place[]>(`${import.meta.env.BASE_URL}data/places.json`)
 }
 
 export function loadGraph(): Promise<Graph> {
-  return fetchJson<Graph>('/data/graph.json')
+  return fetchJson<Graph>(`${import.meta.env.BASE_URL}data/graph.json`)
 }
