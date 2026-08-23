@@ -85,6 +85,12 @@
   border-radius: 50%;
 }
 
+.map-fallback {
+  padding: 0.75rem 1rem;
+  overflow-y: auto;
+  height: 100%;
+}
+
 .candidate-marker--area {
   border-radius: 3px;
   transform: rotate(45deg);

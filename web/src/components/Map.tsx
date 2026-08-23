@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import * as maplibregl from 'maplibre-gl'
 import type { LonLatType, Place } from '../services/dataLoader'
 import { opacityForProbability, radiusForProbability } from '../services/visualWeight'
@@ -25,6 +25,11 @@ export default function Map() {
   const markersRef = useRef<maplibregl.Marker[]>([])
   const linkSourceAddedRef = useRef(false)
 
+  // Alguns navegadores/ambientes (GPU desabilitada por sandbox/política) não conseguem
+  // criar contexto WebGL nem em fallback — achado real de uso. Sem isso, o mapa quebrava
+  // a aplicação inteira; com o fallback, US2/Legend/Footer continuam funcionando.
+  const [webglUnsupported, setWebglUnsupported] = useState(false)
+
   const places = useAtlasStore((s) => s.places)
   const chapterRange = useAtlasStore((s) => s.chapterRange)
   const selectedPlaceId = useAtlasStore((s) => s.selectedPlaceId)
@@ -32,14 +37,26 @@ export default function Map() {
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return
-    const map = new maplibregl.Map({
-      container: containerRef.current,
-      style: 'https://demotiles.maplibre.org/style.json',
-      bounds: ATOS_BBOX,
-    })
-    mapRef.current = map
+    try {
+      const map = new maplibregl.Map({
+        container: containerRef.current,
+        style: 'https://demotiles.maplibre.org/style.json',
+        bounds: ATOS_BBOX,
+      })
+      map.on('error', (e) => {
+        if (String(e.error?.message ?? '').toLowerCase().includes('webgl')) {
+          map.remove()
+          mapRef.current = null
+          setWebglUnsupported(true)
+        }
+      })
+      mapRef.current = map
+    } catch {
+      queueMicrotask(() => setWebglUnsupported(true))
+      return
+    }
     return () => {
-      map.remove()
+      mapRef.current?.remove()
       mapRef.current = null
     }
   }, [])
@@ -135,6 +152,38 @@ export default function Map() {
       map.off('click', onBackgroundClick)
     }
   }, [selectPlace])
+
+  if (webglUnsupported) {
+    const visiblePlaces = places.filter(
+      (p: Place) => p.is_locatable && placeInChapterRange(p, chapterRange),
+    )
+    return (
+      <div className="map-fallback" role="status">
+        <p>
+          Este navegador não consegue exibir o mapa interativo (WebGL indisponível). A
+          lista abaixo mostra os mesmos lugares e candidatos de localização, sem perder a
+          incerteza — nenhum candidato é omitido.
+        </p>
+        <ul>
+          {visiblePlaces.map((place) => (
+            <li key={place.place_id}>
+              <button type="button" onClick={() => selectPlace(place.place_id)}>
+                {place.name}
+              </button>
+              <ul>
+                {place.candidates.map((c) => (
+                  <li key={c.modern_id}>
+                    {c.name} — probabilidade {(c.probability * 100).toFixed(0)}%
+                    {isAreaType(c.lonlat_type) ? ' (área aproximada)' : ''}
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
 
   return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
 }
