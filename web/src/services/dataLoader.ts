@@ -71,6 +71,14 @@ export interface Graph {
   edges: GraphEdge[]
 }
 
+// `sort` (BBCCCVVV) é string — CLAUDE.md princípio 4. Formata para "Atos C:V" legível.
+// Livro fixo em "44" (Atos) porque o escopo do projeto é restrito a esse livro.
+export function formatVerseRef(sort: string): string {
+  const chapter = Number(sort.slice(2, 5))
+  const verse = Number(sort.slice(5, 8))
+  return `Atos ${chapter}:${verse}`
+}
+
 async function fetchJson<T>(path: string): Promise<T> {
   const res = await fetch(path)
   if (!res.ok) {

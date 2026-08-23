@@ -1,3 +1,4 @@
+import { formatVerseRef } from '../services/dataLoader'
 import { useAtlasStore } from '../state/store'
 
 export default function PlaceDetail() {
@@ -14,7 +15,7 @@ export default function PlaceDetail() {
     <div className="place-detail">
       <h2>{place.name}</h2>
       <p className="place-detail__meta">
-        {place.mention_count} menção(ões) em Atos — capítulos {place.chapters.join(', ')}
+        Mencionado em: {place.verses.map(formatVerseRef).join(', ')}
       </p>
 
       <h3>Candidatos de localização ({place.candidate_count})</h3>
