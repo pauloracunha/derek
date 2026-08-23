@@ -22,26 +22,29 @@ export default function ChapterTimeline() {
 
   return (
     <div className="chapter-timeline">
-      <label>
-        Capítulo inicial: {from}
-        <input
-          type="range"
-          min={MIN_CHAPTER}
-          max={MAX_CHAPTER}
-          value={from}
-          onChange={(e) => handleFromChange(Number(e.target.value))}
-        />
-      </label>
-      <label>
-        Capítulo final: {to}
-        <input
-          type="range"
-          min={MIN_CHAPTER}
-          max={MAX_CHAPTER}
-          value={to}
-          onChange={(e) => handleToChange(Number(e.target.value))}
-        />
-      </label>
+      <div className="chapter-range-inputs">
+        <label>
+          Capítulo
+          <input
+            type="number"
+            min={MIN_CHAPTER}
+            max={MAX_CHAPTER}
+            value={from}
+            onChange={(e) => handleFromChange(Number(e.target.value))}
+          />
+        </label>
+        <span className="chapter-range-inputs__sep">até</span>
+        <label>
+          Capítulo
+          <input
+            type="number"
+            min={MIN_CHAPTER}
+            max={MAX_CHAPTER}
+            value={to}
+            onChange={(e) => handleToChange(Number(e.target.value))}
+          />
+        </label>
+      </div>
       {chapterRange !== null && (
         <button type="button" onClick={handleReset}>
           Limpar filtro
